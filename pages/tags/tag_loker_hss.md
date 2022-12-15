@@ -1,8 +1,8 @@
 ---
-title: "Loker HST"
-tagName: loker_hst
+title: "Loker HSS"
+tagName: loker_hss
 search: exclude
-permalink: tag_loker_hst.html
+permalink: tag_loker_hss.html
 sidebar: menu_loker
 folder: tags
 ---

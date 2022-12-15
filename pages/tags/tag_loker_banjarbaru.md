@@ -1,8 +1,8 @@
 ---
-title: "Loker HST"
-tagName: loker_hst
+title: "Loker Banjarbaru"
+tagName: loker_banjarbaru
 search: exclude
-permalink: tag_loker_hst.html
+permalink: tag_loker_banjarbaru.html
 sidebar: menu_loker
 folder: tags
 ---

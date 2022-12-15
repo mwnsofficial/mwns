@@ -1,8 +1,8 @@
 ---
-title: "Loker HST"
-tagName: loker_hst
+title: "Loker Tabalong"
+tagName: loker_tabalong
 search: exclude
-permalink: tag_loker_hst.html
+permalink: tag_loker_tabalong.html
 sidebar: menu_loker
 folder: tags
 ---

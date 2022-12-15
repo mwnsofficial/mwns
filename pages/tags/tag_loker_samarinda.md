@@ -1,8 +1,8 @@
 ---
-title: "Loker HST"
-tagName: loker_hst
+title: "Loker Samarinda"
+tagName: loker_samarinda
 search: exclude
-permalink: tag_loker_hst.html
+permalink: tag_loker_samarinda.html
 sidebar: menu_loker
 folder: tags
 ---

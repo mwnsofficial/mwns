@@ -1,8 +1,8 @@
 ---
-title: "Loker HST"
-tagName: loker_hst
+title: "Loker Kapuas"
+tagName: loker_kapuas
 search: exclude
-permalink: tag_loker_hst.html
+permalink: tag_loker_kapuas.html
 sidebar: menu_loker
 folder: tags
 ---
