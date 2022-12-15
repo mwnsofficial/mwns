@@ -1,8 +1,8 @@
 ---
-title:  "Loker automotive samarinda"
+title:  "Loker automotive melak samarinda"
 published: true
 permalink: loker_automotive_melak_kaltim.html
-summary: "Loker automotive di samarinda."
+summary: "Loker automotive di melak samarinda."
 tags: [berita, loker_samarinda, automotive]
 ---
 
