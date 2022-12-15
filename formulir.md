@@ -6,7 +6,6 @@ sidebar: menu_loker
 permalink: formulir.html
 summary: Formulir Pembuka Loker.
 --- 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -34,7 +33,7 @@ summary: Formulir Pembuka Loker.
                 <td></td>
                 <td></td>
                 <td>
-                    <button type="submit" name="submit">KIRIM</button>
+                    <button type="submit" name="submit" href="mailto:master@mwns.my.id">KIRIM</button>
                 </td>
             </tr>
         </table>
