@@ -1,0 +1,86 @@
+topnav:
+- title: Topnav
+  items:
+    - title: Facebook
+      external_url: https://www.facebook.com
+   
+    - title: Berita Loker
+      url: /berita
+    
+    - title: Arsip Berita Loker
+      url: /arsip_berita
+
+topnav_dropdowns:
+- title: Daftar Loker
+  folders:
+
+  - title: Loker Kabupaten
+    folderitems:
+
+    - title: Banjarmasin
+      url: /tag_loker_banjarmasin.html
+
+    - title: Banjarbaru
+      url: /tag_loker_banjarbaru.html
+    
+    - title: Banjar
+      url: /tag_loker_banjar.html
+    
+    - title: Tanah Laut
+      url: /tag_loker_tanah_laut.html
+    
+    - title: Tanah Bumbu
+      url: /tag_loker_tanah_bumbu.html
+    
+    - title: Rantau
+      url: /tag_loker_rantau
+    
+    - title: Hulu Sungai Selatan
+      url: /tag_loker_hss.html
+    
+    - title: Hulu Sungai Tengah
+      url: /tag_loker_hst.html
+    
+    - title: Hulu Sungai Utara
+      url: /tag_loker_hsu.html
+    
+    - title: Tabalong
+      url: /tag_loker_tabalong.html
+    
+    - title: Rantau
+      url: /tag_loker_rantau.html
+    
+    - title: Batola
+      url: /tag_loker_batola.html
+    
+    - title: Kapuas
+      url: /tag_loker_kapuas.html
+    
+    - title: Palangka Raya
+      url: /tag_loker_palangkaraya.html
+    
+    - title: Balikpapan
+      url: /tag_loker_balikpapan.html
+    
+    - title: Samarinda
+      url: /tag_loker_samarinda.html
+
+  - title: Loker Propinsi
+    folderitems:
+    
+    - title: Kalimantan Selatan
+      url: /tag_loker_kalsel.html
+    
+    - title: Kalimantan Tengah
+      url: /tag_loker_kalteng.html
+
+    - title: Kalimantan Timur
+      url: /tag_loker_kaltim.html
+    
+    - title: Kalimantan Barat
+      url: /tag_loker_kalbar.html
+    
+    - title: Kalimantan Utara
+      url: /tag_loker_kaltara.html
+
+# Copyright 2021 Google LLC
