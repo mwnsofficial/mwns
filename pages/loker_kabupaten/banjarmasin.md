@@ -692,8 +692,7 @@ folder: loker_kabupaten
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Verifikasi Whatsapp</h4>
-                    <p>Setelah anda membayar di awal sebelum pelayanan, harap untuk kasih resi pembayaran via <a href="https://wa.me/6287764241047">Whatsapp</a>.</p>
-                    <p>Mohon maaf, tidak melayani bon dan DP di awal.</p>
+                    <p>Setelah mengirim, anda bisa kasih resi pembayaran via untuk kasih resi pembayaran via <a href="https://wa.me/6287764241047">Whatsapp</a>.</p>
                 </div>
             </div>
         </div>
@@ -707,8 +706,7 @@ folder: loker_kabupaten
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Verifikasi Telegram</h4>
-                    <p>Setelah anda membayar di awal sebelum pelayanan, harap untuk kasih resi pembayaran via <a href="https://t.me/@mwnsofficial">Telegram</a>.</p>
-                    <p>Mohon maaf, tidak melayani bon dan DP di awal.</p>
+                    <p>Setelah mengirim, anda bisa kasih resi pembayaran via <a href="https://t.me/@mwnsofficial">Telegram</a>.</p>
                 </div>
             </div>
         </div>
