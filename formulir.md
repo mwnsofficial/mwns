@@ -33,7 +33,7 @@ summary: Formulir Pembuka Loker.
                 <td></td>
                 <td></td>
                 <td>
-                    <button type="submit" name="submit" href="mailto:master@mwns.my.id">KIRIM</button>
+                    <button type="submit" name="submit"><a href="mailto:master@mwns.my.id">KIRIM</a></button>
                 </td>
             </tr>
         </table>
