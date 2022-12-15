@@ -7,7 +7,7 @@ permalink: index.html
 summary: Selamat datang di Loker Banua, lowongan kerja yang tepat untuk anda.
 ---
 
-{% include note.html content="Sebelum memulai mencari lowongan kerja, alangkah baiknya anda terlebih dahulu untuk membaca <a alt="privacy policy" href="https://www.mwns.my.id/privacy_policy.html">Privacy Policy</a> dan juga baca <a alt="disclaimer" href="https://www.mwns.my.id/disclaimer.html">Disclaimer</a> dan bagi anda ingin donasi ke admin sebagai dukungan anda ke admin untuk akses operasional bisa melalui <a alt="donasi" href="https://www.mwns.my.id/donasi.html">Donasi</a>." %}
+{% include note.html content="Sebelum memulai menggunakan layanan clashmwms berikan. Alangkah baiknya untuk membaca <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/disclaimer'>Disclaimer</a> dan juga <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/privacy-policy'>Privacy Policy</a>. Dukung clashmwns untuk ke depan nya selalu berikan informasi paling terupdate <a alt='subscribe' href='https://youtube.com/@mwnsofficial'>Subscribe</a>. Ikuti grup telegram clashmwms <a alt='telegram' href='https://t.me/+MV1v5tLmOSI2ODU1'>Disini</a> dan bagi anda yang ingin kopi ke clashmwns bisa melalui <a alt='donasi' href='https://www.clashmwns.com/donate.html'>Donasi</a>." %}
 
 ## Loker Banua
 
