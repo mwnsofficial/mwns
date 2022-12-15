@@ -566,85 +566,50 @@ folder: loker_kabupaten
         </div>
     </div>
 
-    <!-- Service List -->
+     <!-- Ketiga -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">Daftar Admin Yang Melayani</h2>
+            <h2 class="page-header">Pembayaran dan Donasi</h2>
         </div>
         <div class="col-md-4">
             <div class="media">
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-money fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
-                    <h4 class="media-heading">Admin 1</h4>
-                    <p>Mengerjakan bagian Konsultasi.</p>
+                    <h4 class="media-heading">Bank</h4>
+                    <p>Untuk pembayaran atau donasi via <a href="/images/bank_bri.jpg">BRI</a>.</p>
+                    <p></p>
+               </div>
+            </div>
+            <div class="media">
+                <div class="pull-left">
+                    <span class="fa-stack fa-2x">
+                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-money fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading">Dana</h4>
+                    <p>Untuk pembayaran atau donasi via <a href="https://link.dana.id/qr/4r3ahl1">Dana</a>.</p>
+                    <p></p>
                 </div>
             </div>
             <div class="media">
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-car fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-money fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
-                    <h4 class="media-heading">Admin 2</h4>
-                    <p>Mengerjakan bagian Template.</p>
-                </div>
-            </div>
-            <div class="media">
-                <div class="pull-left">
-                    <span class="fa-stack fa-2x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-support fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="media-body">
-                    <h4 class="media-heading">Admin 3</h4>
-                    <p>Mengerjakan bagian Formulir.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="media">
-                <div class="pull-left">
-                    <span class="fa-stack fa-2x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-database fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="media-body">
-                    <h4 class="media-heading">Admin 4</h4>
-                    <p>Mengerjakan bagian Email.</p>
-                </div>
-            </div>
-            <div class="media">
-                <div class="pull-left">
-                    <span class="fa-stack fa-2x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-bomb fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="media-body">
-                    <h4 class="media-heading">Admin 5</h4>
-                    <p>Mengerjakan bagian pengumpulan berkas pembuka loker.</p>
-                </div>
-            </div>
-            <div class="media">
-                <div class="pull-left">
-                    <span class="fa-stack fa-2x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-bank fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="media-body">
-                    <h4 class="media-heading">Admin 6</h4>
-                    <p>Mengerjakan bagian berkas pelamar.</p>
+                    <h4 class="media-heading">Shopee Pay</h4>
+                    <p>Untuk pembayaran atau donasi <a href="https://wsa.wallet.airpay.co.id/qr/004f42927bfe976b9d3c?smtt=0.0.9">Shopeepay</a>.</p>
+                    <p></p>
                 </div>
             </div>
         </div>
@@ -653,36 +618,93 @@ folder: loker_kabupaten
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-paper-plane fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-money fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
-                    <h4 class="media-heading">Admin 7</h4>
-                    <p>Mengerjakan bagian desain lamaran.</p>
+                    <h4 class="media-heading">Saweria</h4>
+                    <p>Untuk pembayaran atau donasi via <a href="https://saweria.co/masterwifi99">Saweria</a>.</p>
+                    <p></p>
                 </div>
             </div>
             <div class="media">
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-space-shuttle fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-money fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
-                    <h4 class="media-heading">Admin 8</h4>
-                    <p>Mengerjakan bagian promosi.</p>
+                    <h4 class="media-heading">Sociabuzz</h4>
+                    <p>Untuk pembayaran atau donasi via <a href="https://sociabuzz.com/master_wifi_network_solution/tribe">Sociabuzz</a>.</p>
+                    <p></p>
                 </div>
             </div>
             <div class="media">
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-recycle fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-dollar fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="media-body">
-                    <h4 class="media-heading">Admin 9</h4>
-                    <p>Mengerjakan bagian IT.</p>
+                    <h4 class="media-heading">Ko-Fi</h4>
+                    <p>Untuk pembayaran atau donasi via <a href="https://ko-fi.com/masterwifinetworksolution">Ko-Fi</a>.</p>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="media">
+                <div class="pull-left">
+                    <span class="fa-stack fa-2x">
+                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-dollar fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading">Paypall</h4>
+                    <p>Untuk pembayaran atau donasi via <a href="https://paypal.me/myarachma92">Paypal</a>.</p>
+                    <p></p>
+                </div>
+            </div>
+            <div class="media">
+                <div class="pull-left">
+                    <span class="fa-stack fa-2x">
+                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-bitcoin fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading">Bitcoin</h4>
+                    <p>Untuk pembayaran atau donasi via <a href="/images/bitcoin_master.jpg">Bitcoin</a>.</p>
+                    <p></p>
+                </div>
+            </div>
+            <div class="media">
+                <div class="pull-left">
+                    <span class="fa-stack fa-2x">
+                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-whatsapp fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading">Verifikasi Whatsapp</h4>
+                    <p>Setelah anda membayar di awal sebelum pelayanan, harap untuk kasih resi pembayaran via <a href="https://wa.me/6287764241047">Whatsapp</a>.</p>
+                    <p>Mohon maaf, tidak melayani bon dan DP di awal.</p>
+                </div>
+            </div>
+            <div class="media">
+                <div class="pull-left">
+                    <span class="fa-stack fa-2x">
+                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-telegram fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading">Verifikasi Telegram</h4>
+                    <p>Setelah anda membayar di awal sebelum pelayanan, harap untuk kasih resi pembayaran via <a href="https://t.me/@mwnsofficial">Telegram</a>.</p>
+                    <p>Mohon maaf, tidak melayani bon dan DP di awal.</p>
                 </div>
             </div>
         </div>
