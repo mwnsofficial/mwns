@@ -1,6 +1,6 @@
 ---
 title: "Loker Automotive"
-tagName: loker_automotive
+tagName: automotive
 search: exclude
 permalink: tag_automotive.html
 sidebar: menu_loker
