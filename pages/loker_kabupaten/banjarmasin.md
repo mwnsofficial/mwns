@@ -568,7 +568,7 @@ folder: loker_kabupaten
 
 <div class="row">
     <div class="col-lg-12">
-    <h2 class="page-header">Pembayaran dan Donasi</h2>
+    <h2 class="page-header">Support kami dengan Donasi</h2>
     </div>
         <div class="col-md-4">
             <div class="media">
