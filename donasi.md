@@ -6,7 +6,6 @@ sidebar: menu_loker
 permalink: donasi.html
 summary: Donasi untuk clashmwns.
 ---
-
 <div class="row">
     <div class="col-lg-12">
     <h2 class="page-header">Support kami dengan Donasi</h2>
@@ -152,5 +151,3 @@ summary: Donasi untuk clashmwns.
             </div>
         </div>
 </div>
-
-{% include links.html %}
