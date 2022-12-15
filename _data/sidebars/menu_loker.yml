@@ -1,0 +1,149 @@
+entries:
+- title: sidebar
+  product: Loker Banua
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Loker Banua
+    output: web, pdf
+    folderitems:
+
+    - title: Beranda
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Profile
+      url: /profile.html
+      output: web, pdf
+
+    - title: Disclaimer
+      url: /disclaimer.html
+      output: web, pdf
+
+    - title: Privacy Policy
+      url: /privacy_policy.html
+      output: web, pdf
+
+    - title: Support
+      url: /support.html
+      output: web, pdf
+
+  - title: Release Notes
+    output: web, pdf
+    folderitems:
+
+    - title: 6.0 Release notes
+      url: /mydoc_release_notes_60.html
+      output: web, pdf
+
+    - title: 5.0 Release notes
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+  - title: Daftar Loker Kabupaten
+    output: web
+    folderitems:
+
+    - title: Banjarmasin
+      url: /tag_loker_banjarmasin.html
+      output: web
+
+    - title: Banjarbaru
+      url: /tag_loker_banjarbaru.html
+      output: web
+    
+    - title: Banjar
+      url: /tag_loker_banjar.html
+      output: web
+    
+    - title: Tanah Laut
+      url: /tag_loker_tanah_laut.html
+      output: web
+    
+    - title: Tanah Bumbu
+      url: /tag_loker_tanah_bumbu.html
+      output: web
+    
+    - title: Rantau
+      url: /tag_loker_rantau.html
+      output: web
+    
+    - title: Hulu Sungai Selatan
+      url: /tag_loker_hss.html
+      output: web
+    
+    - title: Hulu Sungai Tengah
+      url: /tag_loker_hst.html
+      output: web
+    
+    - title: Hulu Sungai Utara
+      url: /tag_loker_hsu.html
+      output: web
+    
+    - title: Tabalong
+      url: /tag_loker_tabalong.html
+      output: web
+    
+    - title: Rantau
+      url: /tag_loker_rantau.html
+      output: web
+    
+    - title: Batola
+      url: /tag_loker_batola.html
+      output: web
+    
+    - title: Kapuas
+      url: /tag_loker_kapuas.html
+      output: web
+    
+    - title: Palangka Raya
+      url: /tag_loker_palangkaraya.html
+      output: web
+    
+    - title: Balikpapan
+      url: /tag_loker_balikpapan.html
+      output: web
+    
+    - title: Samarinda
+      url: /tag_loker_samarinda.html
+      output: web
+
+  - title: Daftar Loker Propinsi
+    output: web
+    folderitems:
+    
+    - title: Kalimantan Selatan
+      url: /tag_loker_kalsel.html
+      output: web
+    
+    - title: Kalimantan Tengah
+      url: /tag_loker_kalteng.html
+      output: web
+    
+    - title: Kalimantan Timur
+      url: /tag_loker_kaltim.html
+      output: web
+    
+    - title: Kalimantan Barat
+      url: /tag_loker_kalbar.html
+      output: web
+    
+    - title: Kalimantan Utara
+      url: /tag_loker_kaltara.html
+      output: web
+
+# Hak Cipta MWNS
