@@ -6,6 +6,8 @@ summary: "Loker automotive di melak samarinda."
 tags: [berita, loker_samarinda, automotive]
 ---
 
+![otomotif melak kaltim](/images/otomotif-melak-kaltim.jpg)
+
 Di buka lowongan kerja untuk :
  
 - laki-laki
