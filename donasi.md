@@ -1,9 +1,9 @@
 ---
 title: "Donasi"
-keywords: donate
+keywords: donasi
 tags: [loker_banua]
 sidebar: menu_loker
-permalink: donate.html
+permalink: donasi.html
 summary: Donasi untuk clashmwns.
 ---
 
