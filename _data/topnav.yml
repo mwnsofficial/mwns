@@ -2,13 +2,31 @@ topnav:
 - title: Topnav
   items:
     - title: Facebook
-      external_url: https://www.facebook.com
+      external_url: https://www.facebook.com/info.lowongan.kerja.kalimantan
    
     - title: Berita Loker
       url: /berita
     
     - title: Arsip Berita Loker
       url: /arsip_berita
+    
+    - title: Disclaimer
+      url: /disclaimer
+    
+    - title: Privacy Policy
+      url: /privacy_policy
+    
+    - title: Profile
+      url: /profile
+    
+    - title: Donasi
+      url: /donasi
+    
+    - title: Formulir Pembuka Loker
+      url: /formulir
+    
+    - title: Berkas CV
+      url: /berkas
 
 topnav_dropdowns:
 - title: Daftar Loker
@@ -18,69 +36,69 @@ topnav_dropdowns:
     folderitems:
 
     - title: Banjarmasin
-      url: /tag_loker_banjarmasin.html
+      url: /loker_banjarmasin.html
 
     - title: Banjarbaru
-      url: /tag_loker_banjarbaru.html
+      url: /loker_banjarbaru.html
     
     - title: Banjar
-      url: /tag_loker_banjar.html
+      url: /loker_banjar.html
     
     - title: Tanah Laut
-      url: /tag_loker_tanah_laut.html
+      url: /loker_tanah_laut.html
     
     - title: Tanah Bumbu
-      url: /tag_loker_tanah_bumbu.html
+      url: /loker_tanah_bumbu.html
     
     - title: Rantau
-      url: /tag_loker_rantau
+      url: /loker_rantau
     
     - title: Hulu Sungai Selatan
-      url: /tag_loker_hss.html
+      url: /loker_hss.html
     
     - title: Hulu Sungai Tengah
-      url: /tag_loker_hst.html
+      url: /loker_hst.html
     
     - title: Hulu Sungai Utara
-      url: /tag_loker_hsu.html
+      url: /loker_hsu.html
     
     - title: Tabalong
-      url: /tag_loker_tabalong.html
+      url: /loker_tabalong.html
     
     - title: Rantau
-      url: /tag_loker_rantau.html
+      url: /loker_rantau.html
     
     - title: Batola
-      url: /tag_loker_batola.html
+      url: /loker_batola.html
     
     - title: Kapuas
-      url: /tag_loker_kapuas.html
+      url: /loker_kapuas.html
     
     - title: Palangka Raya
-      url: /tag_loker_palangkaraya.html
+      url: /loker_palangkaraya.html
     
     - title: Balikpapan
-      url: /tag_loker_balikpapan.html
+      url: /loker_balikpapan.html
     
     - title: Samarinda
-      url: /tag_loker_samarinda.html
+      url: /loker_samarinda.html
 
   - title: Loker Propinsi
     folderitems:
     
     - title: Kalimantan Selatan
-      url: /tag_loker_kalsel.html
+      url: /loker_kalsel.html
     
     - title: Kalimantan Tengah
-      url: /tag_loker_kalteng.html
+      url: /loker_kalteng.html
 
     - title: Kalimantan Timur
-      url: /tag_loker_kaltim.html
+      url: /loker_kaltim.html
     
     - title: Kalimantan Barat
-      url: /tag_loker_kalbar.html
+      url: /loker_kalbar.html
     
     - title: Kalimantan Utara
-      url: /tag_loker_kaltara.html
+      url: /loker_kaltara.html
 
-# Copyright 2021 Google LLC
+# Hak Cipta MWNS
