@@ -13,6 +13,18 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: Facebook
+      external_url: https://www.facebook.com/info.lowongan.kerja.kalimantan
+      output: web, pdf
+   
+    - title: Berita Loker
+      url: /berita.html
+      output: web, pdf 
+   
+    - title: Arsip Berita Loker
+      url: /arsip_berita.html
+      output: web, pdf
+
     - title: Profile
       url: /profile.html
       output: web, pdf
@@ -25,8 +37,16 @@ entries:
       url: /privacy_policy.html
       output: web, pdf
 
-    - title: Support
-      url: /support.html
+    - title: Donasi
+      url: /donasi.html
+      output: web, pdf
+
+    - title: Formulir Pembuka Loker
+      url: /formulir
+      output: web, pdf 
+   
+    - title: Berkas CV
+      url: /berkas.html
       output: web, pdf
 
   - title: Daftar Loker Kabupaten
