@@ -586,6 +586,8 @@ folder: loker_kabupaten
                     <p></p>
                </div>
             </div>
+        </div>
+        <div class="col-md-4">
             <div class="media">
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
@@ -599,6 +601,8 @@ folder: loker_kabupaten
                     <p></p>
                 </div>
             </div>
+        </div>
+        <div class="col-md-4">
             <div class="media">
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
@@ -613,6 +617,8 @@ folder: loker_kabupaten
                 </div>
             </div>
         </div>
+       </div>
+       <div class="col-md-4">
         <div class="col-md-4">
             <div class="media">
                 <div class="pull-left">
@@ -627,6 +633,8 @@ folder: loker_kabupaten
                     <p></p>
                 </div>
             </div>
+        </div>
+        <div class="col-md-4">
             <div class="media">
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
@@ -640,6 +648,8 @@ folder: loker_kabupaten
                     <p></p>
                 </div>
             </div>
+        </div>
+        <div class="col-md-4">
             <div class="media">
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
@@ -668,6 +678,8 @@ folder: loker_kabupaten
                     <p></p>
                 </div>
             </div>
+        </div>
+        <div class="col-md-4">
             <div class="media">
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
@@ -681,6 +693,8 @@ folder: loker_kabupaten
                     <p></p>
                 </div>
             </div>
+        </div>
+        <div class="col-md-4">
             <div class="media">
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
@@ -694,6 +708,8 @@ folder: loker_kabupaten
                     <p>Mohon maaf, tidak melayani bon dan DP di awal.</p>
                 </div>
             </div>
+        </div>
+        <div class="col-md-4">
             <div class="media">
                 <div class="pull-left">
                     <span class="fa-stack fa-2x">
@@ -708,3 +724,4 @@ folder: loker_kabupaten
                 </div>
             </div>
         </div>
+        
