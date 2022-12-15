@@ -16,24 +16,13 @@ summary: Formulir Pembuka Loker.
     <form action="sendmail.php" method="POST">
         <table>
             <tr>
-                <td>Nama Anda</td>
-                <td>:</td>
                 <td>
-                    <input type="text" name="nama">
+                    <p>Silahkan tekan kirim pesan untuk mengisi formulir</p>
                 </td>
             </tr>
             <tr>
-                <td>Email Anda</td>
-                <td>:</td>
                 <td>
-                    <input type="text" name="email">
-                </td>
-            </tr>
-            <tr>
-                <td></td>
-                <td></td>
-                <td>
-                    <button type="submit" name="submit"><a href="mailto:master@mwns.my.id">KIRIM</a></button>
+                    <button type="submit" name="submit"><a href="mailto:master@mwns.my.id">KIRIM PESAN</a></button>
                 </td>
             </tr>
         </table>
