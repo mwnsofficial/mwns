@@ -37,5 +37,3 @@ Dicari yang benar-benar serius kerja, ga hanya main-main.
 Info lebih lanjut :
 
 - Whatsapp 082256846995
-
-{% include links.html %}
