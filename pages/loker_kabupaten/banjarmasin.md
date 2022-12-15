@@ -234,6 +234,14 @@ folder: loker_kabupaten
         </div>
         </div>
         </div>
+        <div class="col-md-3 col-sm-6">
+        <div class="panel panel-default text-center">
+        <div class="panel-heading">
+        <span class="fa-stack fa-5x">
+        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        </span>
+        </div>
         <div class="panel-body">
         <h4>Information Technology</h4>
         <p>Daftar barisan loker information technology.</p>
@@ -285,6 +293,14 @@ folder: loker_kabupaten
         <a href="#" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+        <div class="panel panel-default text-center">
+        <div class="panel-heading">
+        <span class="fa-stack fa-5x">
+        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        </span>
         </div>
         <div class="panel-body">
         <h4>Konstruksi dan Bangunan</h4>
@@ -338,6 +354,14 @@ folder: loker_kabupaten
         </div>
         </div>
         </div>
+        <div class="col-md-3 col-sm-6">
+        <div class="panel panel-default text-center">
+        <div class="panel-heading">
+        <span class="fa-stack fa-5x">
+        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        </span>
+        </div>
         <div class="panel-body">
         <h4>Pelayanan Profesional</h4>
         <p>Daftar barisan loker pelayanan profesional.</p>
@@ -389,6 +413,14 @@ folder: loker_kabupaten
         <a href="#" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+        <div class="panel panel-default text-center">
+        <div class="panel-heading">
+        <span class="fa-stack fa-5x">
+        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        </span>
         </div>
         <div class="panel-body">
         <h4>Pertambangan Dan Energi</h4>
@@ -442,6 +474,14 @@ folder: loker_kabupaten
         </div>
         </div>
         </div>
+        <div class="col-md-3 col-sm-6">
+        <div class="panel panel-default text-center">
+        <div class="panel-heading">
+        <span class="fa-stack fa-5x">
+        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        </span>
+        </div>
         <div class="panel-body">
         <h4>Research & Development</h4>
         <p>Daftar barisan loker research & development.</p>
@@ -493,6 +533,14 @@ folder: loker_kabupaten
         <a href="#" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+        <div class="panel panel-default text-center">
+        <div class="panel-heading">
+        <span class="fa-stack fa-5x">
+        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+        </span>
         </div>
         <div class="panel-body">
         <h4>Telekomunikasi</h4>
