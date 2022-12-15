@@ -2,7 +2,7 @@
 title:  "Loker automotive samarinda"
 published: true
 permalink: loker_automotive_melak_kaltim.html
-summary: "This is some summary frontmatter for my sample post."
+summary: "Loker automotive di samarinda."
 tags: [berita, loker_samarinda, automotive]
 ---
 
