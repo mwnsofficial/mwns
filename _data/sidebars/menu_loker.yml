@@ -42,7 +42,7 @@ entries:
       output: web, pdf
 
     - title: Formulir Pembuka Loker
-      url: /formulir
+      url: /formulir.html
       output: web, pdf 
    
     - title: Berkas CV
@@ -54,63 +54,63 @@ entries:
     folderitems:
 
     - title: Banjarmasin
-      url: /loker_banjarmasin.html
+      url: /tag_loker_banjarmasin.html
       output: web
 
     - title: Banjarbaru
-      url: /loker_banjarbaru.html
+      url: /tag_loker_banjarbaru.html
       output: web
     
     - title: Banjar
-      url: /loker_banjar.html
+      url: /tag_loker_banjar.html
       output: web
     
     - title: Tanah Laut
-      url: /loker_tanah_laut.html
+      url: /tag_loker_tanah_laut.html
       output: web
     
     - title: Tanah Bumbu
-      url: /loker_tanah_bumbu.html
+      url: /tag_loker_tanah_bumbu.html
       output: web
     
     - title: Rantau
-      url: /loker_rantau.html
+      url: /tag_loker_rantau.html
       output: web
     
     - title: Hulu Sungai Selatan
-      url: /loker_hss.html
+      url: /tag_loker_hss.html
       output: web
     
     - title: Hulu Sungai Tengah
-      url: /loker_hst.html
+      url: /tag_loker_hst.html
       output: web
     
     - title: Hulu Sungai Utara
-      url: /loker_hsu.html
+      url: /tag_loker_hsu.html
       output: web
     
     - title: Tabalong
-      url: /loker_tabalong.html
+      url: /tag_loker_tabalong.html
       output: web
     
     - title: Batola
-      url: /loker_batola.html
+      url: /tag_loker_batola.html
       output: web
     
     - title: Kapuas
-      url: /loker_kapuas.html
+      url: /tag_loker_kapuas.html
       output: web
     
     - title: Palangka Raya
-      url: /loker_palangkaraya.html
+      url: /tag_loker_palangkaraya.html
       output: web
     
     - title: Balikpapan
-      url: /loker_balikpapan.html
+      url: /tag_loker_balikpapan.html
       output: web
     
     - title: Samarinda
-      url: /loker_samarinda.html
+      url: /tag_loker_samarinda.html
       output: web
 
   - title: Daftar Loker Propinsi
@@ -118,23 +118,23 @@ entries:
     folderitems:
     
     - title: Kalimantan Selatan
-      url: /loker_kalsel.html
+      url: /tag_kalimantan_selatan.html
       output: web
     
     - title: Kalimantan Tengah
-      url: /loker_kalteng.html
+      url: /tag_kalimantan_tengah.html
       output: web
     
     - title: Kalimantan Timur
-      url: /loker_kaltim.html
+      url: /tag_kalimantan_timur.html
       output: web
     
     - title: Kalimantan Barat
-      url: /loker_kalbar.html
+      url: /tag_kalimantan_barat.html
       output: web
     
     - title: Kalimantan Utara
-      url: /loker_kaltara.html
+      url: /tag_kalimantan_utara.html
       output: web
 
 # Hak Cipta MWNS
