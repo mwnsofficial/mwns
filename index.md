@@ -1,5 +1,5 @@
 ---
-title: "Temukan lowongan kerja hanya di Loker Banua"
+title: "Wellcome Loker Banua"
 keywords: loker banua
 tags: [loker_banua]
 sidebar: menu_loker
@@ -19,7 +19,4 @@ Bagi anda yang sedang mencari lowongan kerja, kami sudah menyiapkan layanan khus
 
 ### 2. Layanan untuk pembuka kerja
 
-Bagi anda yang sedang membuka lowongan kerja, anda bisa menghubungi kami melalui pesan chat atau email melalui halaman profil admin.
-
-
-{% include links.html %}
+Bagi anda yang sedang membuka lowongan kerja, anda bisa menghubungi kami melalui pesan chat atau email melalui halaman profil admin melalui <a alt='form data' href='https://www.clashmwns.com/formulir'>Form Data</a>
