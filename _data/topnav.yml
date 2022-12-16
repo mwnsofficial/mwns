@@ -4,7 +4,7 @@ topnav:
     - title: Facebook
       external_url: https://www.facebook.com/info.lowongan.kerja.kalimantan
    
-    - title: Berita Loker
+    - title: Home
       url: /berita
     
     - title: Arsip Berita Loker
