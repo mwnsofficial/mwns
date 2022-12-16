@@ -24,21 +24,20 @@ summary: Mengisi form untuk pengajuan lowongan kerja.
           <input type="checkbox" name="botcheck" id="" style="display: none;" />
 
           <div class="mb-6">
-            <center><label for="name" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Nama Anda</label></center><br>
-            <input type="text" name="name" id="name" placeholder="Contoh, Muhammad Yusuf" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
+            <center><label for="name" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Nama Anda</label></center>
+            <center><input type="text" name="name" id="name" placeholder="Contoh, Muhammad Yusuf" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" /></center>
           </div>
           <div class="mb-6">
-            <center><label for="email" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Email Anda</label></center><br>
-            <input type="email" name="email" id="email" placeholder="Contoh, master@mwns.my.id" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
+            <center><label for="email" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Email Anda</label></center>
+            <center><input type="email" name="email" id="email" placeholder="Contoh, master@mwns.my.id" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" /></center>
           </div>
           <div class="mb-6">
-            <center><label for="phone" class="text-sm text-gray-600 dark:text-gray-400">No Telp</label></center><br>
-            <input type="text" name="phone" id="phone" placeholder="0877-6424-1047" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
+            <center><label for="phone" class="text-sm text-gray-600 dark:text-gray-400">No Telp</label></center>
+            <center><input type="text" name="phone" id="phone" placeholder="0877-6424-1047" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" /></center>
           </div>
           <div class="mb-6">
-          <center><label for="message" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Pesan Anda</label></center><br>
-          
-          <textarea rows="5" name="message" id="message" placeholder="Isi pesan...." class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" required></textarea>
+          <center><label for="message" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Pesan Anda</label></center>
+          <center><textarea rows="5" name="message" id="message" placeholder="Isi pesan...." class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" required></textarea></center>
           </div>
           <div class="mb-6">
           <center><button type="submit" class="w-full px-3 py-4 text-white bg-indigo-500 rounded-md focus:bg-indigo-600 focus:outline-none">Kirim Pesan</button></center>
