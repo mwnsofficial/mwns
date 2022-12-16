@@ -16,5 +16,3 @@ summary: Disclaimer dari Loker Banua.
 <p>Perlu Anda ingat juga bahwa website-website tersebut juga memiliki terms of service (TOE) dan kebijakan privasi tersendiri. Kami menganjurkan Anda untuk membaca dokumen-dokumen terkait di website tersebut sebelum mengunggah informasi apapun.</p>
 <p>Salam hangat,</p>
 <p><b>clashmwns</b></p>
-
-{% include links.html %}
