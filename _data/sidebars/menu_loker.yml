@@ -47,12 +47,12 @@ entries:
 
     - title: Facebook
       external_url: https://www.facebook.com/info.lowongan.kerja.kalimantan
-      output: web, pdf
+      output: web
 
-    subfolders:
-    - title: Konfig Clash
-      output: web, pdf
-      subfolderitems:
+      subfolders:
+      - title: Konfig Clash
+        output: web
+        subfolderitems:
 
       - title: Clash Openwrt
         url: /clash_openwrt.html
