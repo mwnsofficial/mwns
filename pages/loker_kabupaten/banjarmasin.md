@@ -65,7 +65,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Administrasi</h4>
         <p>Daftar barisan loker administrasi.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_administrasi.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -80,7 +80,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Advertising & Public Relations</h4>
         <p>Daftar barisan loker Advertising & Public Relations.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_advertising_public.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -95,7 +95,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Agrikultur</h4>
         <p>Daftar barisan loker agrikultur.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_agrikultur.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -110,7 +110,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Akuntansi dan Keuangan</h4>
         <p>Daftar barisan loker akuntansi dan keuangan.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_akuntansi_keuangan.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -125,7 +125,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Asuransi</h4>
         <p>Daftar barisan loker asuransi.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_asuransi.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -140,7 +140,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Automotive</h4>
         <p>Daftar barisan loker automotive.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_automotive.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -155,7 +155,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Desain</h4>
         <p>Daftar barisan loker desain.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_desain.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -170,7 +170,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Event</h4>
         <p>Daftar barisan loker event.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_event.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -185,7 +185,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Hospitality & Travel</h4>
         <p>Daftar barisan loker hospitality & travel.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_hospital_travel.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -200,7 +200,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Hotel</h4>
         <p>Daftar barisan loker hotel.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_hotel.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -215,7 +215,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Hukum & Keamanan</h4>
         <p>Daftar barisan loker hukum & keamanan.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_hukum_keamanan.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -230,7 +230,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Human Resources</h4>
         <p>Daftar barisan loker human resources.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_human_resources.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -245,7 +245,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Information Technology</h4>
         <p>Daftar barisan loker information technology.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_informasi_technology.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -258,9 +258,9 @@ folder: loker_kabupaten
         </span>
         </div>
         <div class="panel-body">
-        <h4>Internet & New Media</h4>
+        <h4>Internet & Media</h4>
         <p>Daftar barisan loker internet & new media.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_internet_media.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -275,7 +275,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Kecantikan</h4>
         <p>Daftar barisan loker kecantikan.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_kecantikan.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -290,7 +290,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Kesehatan dan Kedokteran</h4>
         <p>Daftar barisan loker kesehatan dan kedokteran.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_kesehatan_kedokteran.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -305,7 +305,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Konstruksi dan Bangunan</h4>
         <p>Daftar barisan loker konstruksi dan bangunan.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_konstruksi_bangunan.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -320,7 +320,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Management Consulting</h4>
         <p>Daftar barisan loker mamagement consulting.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_management_consulting.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -335,7 +335,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Pabrik dan Manufaktur</h4>
         <p>Daftar barisan loker pabrik dan manufaktur.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_pabrik_manufaktur.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -350,7 +350,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Pekerjaan Umum</h4>
         <p>Daftar barisan loker pekerjaan umum.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_pekerjaan_umum.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -365,7 +365,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Pelayanan Profesional</h4>
         <p>Daftar barisan loker pelayanan profesional.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_pelayanan_profesional.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -380,7 +380,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Pendidikan Dan Pelatihan</h4>
         <p>Daftar barisan loker pendidikan dan pelatihan.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_pendidikan_pelatihan.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -395,7 +395,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Penjualan / Pemasaran</h4>
         <p>Daftar barisan loker penjualan / pemasaran.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_penjualan_pemasaran.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -410,7 +410,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Perbankan</h4>
         <p>Daftar barisan loker perbankan.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_perbankan.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -425,7 +425,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Pertambangan Dan Energi</h4>
         <p>Daftar barisan loker pertambangan dan energi.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_pertambangan_energi.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -440,7 +440,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Programmer</h4>
         <p>Daftar barisan loker programmer.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_programmer.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -455,7 +455,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Property & Real Estate</h4>
         <p>Daftar barisan loker property & real estate.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_property_realestate.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -470,7 +470,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Purchasing / Pembelian</h4>
         <p>Daftar barisan loker purchasing / pembelian.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_purchasing_pembelian.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -485,7 +485,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Research & Development</h4>
         <p>Daftar barisan loker research & development.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_research_development.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -500,7 +500,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Restaurant</h4>
         <p>Daftar barisan loker restaurant.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_restaurant.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -515,7 +515,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Retail</h4>
         <p>Daftar barisan loker retail.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_retail.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -530,7 +530,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Teknik</h4>
         <p>Daftar barisan loker teknik.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_teknik.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -545,7 +545,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Telekomunikasi</h4>
         <p>Daftar barisan loker telekomunikasi.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_telekomunikasi.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
@@ -560,7 +560,7 @@ folder: loker_kabupaten
         <div class="panel-body">
         <h4>Transportasi & Logistik</h4>
         <p>Daftar barisan loker transportasi & logistik.</p>
-        <a href="#" class="btn btn-primary">Lihat Daftar</a>
+        <a href="/tag_transportasi_logistik.html" class="btn btn-primary">Lihat Daftar</a>
         </div>
         </div>
         </div>
