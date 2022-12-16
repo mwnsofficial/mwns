@@ -19,7 +19,7 @@ File ini bisa langsung di simpan atau bisa di download untuk selanjutnya bisa an
 
 ### Berkas 1
 
-![CV 1](/images/cv1.jpg)
+![CV 1](/images/cv1.png)
 
 Download format [WORD 1](/word/cv1.jpg)
 
@@ -29,7 +29,7 @@ Download format [JPG 1](/images/cv1.jpg)
 
 ### Berkas 2
 
-![CV 2](/images/cv2.jpg)
+![CV 2](/images/cv2.png)
 
 Download format [WORD 2](/word/cv2.jpg)
 
@@ -39,7 +39,7 @@ Download format [JPG 2](/images/cv2.jpg)
 
 ### Berkas 3
 
-![CV 3](/images/cv3.jpg)
+![CV 3](/images/cv3.png)
 
 Download format [WORD 3](/word/cv3.jpg)
 
@@ -49,7 +49,7 @@ Download format [JPG 3](/images/cv3.jpg)
 
 ### Berkas 4
 
-![CV 4](/images/cv4.jpg)
+![CV 4](/images/cv4.png)
 
 Download format [WORD 4](/word/cv4.jpg)
 
@@ -59,7 +59,7 @@ Download format [JPG 4](/images/cv4.jpg)
 
 ### Berkas 5
 
-![CV 5](/images/cv5.jpg)
+![CV 5](/images/cv5.png)
 
 Download format [WORD 5](/word/cv5.jpg)
 
@@ -69,7 +69,7 @@ Download format [JPG 5](/images/cv5.jpg)
 
 ### Berkas 6
 
-![CV 6](/images/cv6.jpg)
+![CV 6](/images/cv6.png)
 
 Download format [WORD 6](/word/cv6.jpg)
 
@@ -79,7 +79,7 @@ Download format [JPG 6](/images/cv6.jpg)
 
 ### Berkas 7
 
-![CV 7](/images/cv7.jpg)
+![CV 7](/images/cv7.png)
 
 Download format [WORD 7](/word/cv7.jpg)
 
@@ -89,7 +89,7 @@ Download format [JPG 7](/images/cv7.jpg)
 
 ### Berkas 8
 
-![CV 8](/images/cv8.jpg)
+![CV 8](/images/cv8.png)
 
 Download format [WORD 8](/word/cv8.jpg)
 
@@ -99,7 +99,7 @@ Download format [JPG 8](/images/cv8.jpg)
 
 ### Berkas 9
 
-![CV 9](/images/cv9.jpg)
+![CV 9](/images/cv9.png)
 
 Download format [WORD 9](/word/cv9.jpg)
 
@@ -109,7 +109,7 @@ Download format [JPG 9](/images/cv9.jpg)
 
 ### Berkas 10
 
-![CV 10](/images/cv10.jpg)
+![CV 10](/images/cv10.png)
 
 Download format [WORD 10](/word/cv10.jpg)
 
