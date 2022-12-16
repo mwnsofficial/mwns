@@ -11,7 +11,6 @@ entries:
     - title: Beranda
       url: /index.html
       output: web, pdf
-      type: homepage
 
     - title: Facebook
       external_url: https://www.facebook.com/info.lowongan.kerja.kalimantan
@@ -19,7 +18,8 @@ entries:
    
     - title: Berita Loker
       url: /berita.html
-      output: web, pdf 
+      output: web, pdf
+      type: homepage
    
     - title: Arsip Berita Loker
       url: /arsip_berita.html
