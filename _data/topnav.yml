@@ -7,7 +7,7 @@ topnav:
     - title: Home
       url: /berita
     
-    - title: Arsip Berita Loker
+    - title: Arsip
       url: /arsip_berita
     
     - title: Disclaimer
