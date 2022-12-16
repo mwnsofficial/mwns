@@ -36,69 +36,69 @@ topnav_dropdowns:
     folderitems:
 
     - title: Banjarmasin
-      url: /loker_banjarmasin.html
+      url: /tag_loker_banjarmasin.html
 
     - title: Banjarbaru
-      url: /loker_banjarbaru.html
+      url: /tag_loker_banjarbaru.html
     
     - title: Banjar
-      url: /loker_banjar.html
+      url: /tag_loker_banjar.html
     
     - title: Tanah Laut
-      url: /loker_tanah_laut.html
+      url: /tag_loker_tanah_laut.html
     
     - title: Tanah Bumbu
-      url: /loker_tanah_bumbu.html
+      url: /tag_loker_tanah_bumbu.html
     
     - title: Rantau
-      url: /loker_rantau
+      url: /tag_loker_rantau.html
     
     - title: Hulu Sungai Selatan
-      url: /loker_hss.html
+      url: /tag_loker_hss.html
     
     - title: Hulu Sungai Tengah
-      url: /loker_hst.html
+      url: /tag_loker_hst.html
     
     - title: Hulu Sungai Utara
-      url: /loker_hsu.html
+      url: /tag_loker_hsu.html
     
     - title: Tabalong
-      url: /loker_tabalong.html
+      url: /tag_loker_tabalong.html
     
     - title: Rantau
-      url: /loker_rantau.html
+      url: /tag_loker_rantau.html
     
     - title: Batola
-      url: /loker_batola.html
+      url: /tag_loker_batola.html
     
     - title: Kapuas
-      url: /loker_kapuas.html
+      url: /tag_loker_kapuas.html
     
     - title: Palangka Raya
-      url: /loker_palangkaraya.html
+      url: /tag_loker_palangkaraya.html
     
     - title: Balikpapan
-      url: /loker_balikpapan.html
+      url: /tag_loker_balikpapan.html
     
     - title: Samarinda
-      url: /loker_samarinda.html
+      url: /tag_loker_samarinda.html
 
   - title: Loker Propinsi
     folderitems:
     
     - title: Kalimantan Selatan
-      url: /loker_kalsel.html
+      url: /tag_kalimantan_selatan.html
     
     - title: Kalimantan Tengah
-      url: /loker_kalteng.html
+      url: /tag_kalimantan_tengah.html
 
     - title: Kalimantan Timur
-      url: /loker_kaltim.html
+      url: /tag_kalimantan_timur.html
     
     - title: Kalimantan Barat
-      url: /loker_kalbar.html
+      url: /tag_kalimantan_barat.html
     
     - title: Kalimantan Utara
-      url: /loker_kaltara.html
+      url: /tag_kalimantan_utara.html
 
 # Hak Cipta MWNS
