@@ -15,6 +15,39 @@ allowed-tags:
   - loker_balikpapan
   - loker_samarinda
   - loker_banua
+  - administrasi
+  - advertising_public
+  - agrikultur
+  - akuntansi_keuangan
+  - asuransi
   - automotive
+  - desain
+  - event
+  - hospital_travel
+  - hotel
+  - hukum_keamanan
+  - human_resources
+  - informasi_technology
+  - internet_media
+  - kecantikan
+  - kesehatan_kedokteran
+  - konstruksi_bangunan
+  - management_consulting
+  - pabrik_manufaktur
+  - pekerjaan_umum
+  - pelayanan_profesional
+  - pendidikan_pelatihan
+  - penjualan_pemasaran
+  - perbankan
+  - pertambangan_energi
+  - programmer
+  - property_realestate
+  - purchasing_pembelian
+  - research_development
+  - restaurant
+  - retail
+  - teknik
+  - telekomunikasi
+  - transportasi_logistik
 
 # Hak Cipta MWNS
