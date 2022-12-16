@@ -19,7 +19,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -33,7 +33,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -47,7 +47,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -61,7 +61,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -75,7 +75,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -89,7 +89,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -159,7 +159,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -173,7 +173,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -187,7 +187,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -229,7 +229,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -257,7 +257,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="https://youtu.be/oI1kSYbTiEs" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -271,7 +271,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="hhttps://youtu.be/WeFb3tvWxjg" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -327,7 +327,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
@@ -355,7 +355,7 @@ folder: clash
         </span>
         </div>
         <div class="panel-body">
-        <p>online</p>
+        <p>offline</p>
         <a href="#" class="btn btn-primary">Lihat Video</a>
         <a href="#" class="btn btn-primary">Download</a>
         </div>
