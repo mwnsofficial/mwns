@@ -25,7 +25,12 @@ layout: default
         <div class="summary">{{page.summary}}</div>
         {% endif %}
 
+        {% include iklan_adsense.html %}
+        {% endif %}
         {{ content }}
+        {% include iklan_adsense.html %}
+        {% endif %}
+
     </div>
 
 
