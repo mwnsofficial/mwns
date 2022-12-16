@@ -1,14 +1,14 @@
 # ini jalur repository blog ini
-repository: mwnsofficial/lokerbanua
+repository: mwnsofficial/belok
 
 # bisa multifungsi selain web bisa juga menampilkan pdf
 output: web
 
 # nama head pada navigasi
-topnav_title: Loker Banua
+topnav_title: belok
 
 # optimasi search engine google
-site_title: Temukan lowongan kerja hanya di Loker Banua
+site_title: Temukan berita lowongan kerja hanya di belok.
 
 # footer ada disini
 company_name: Hak Cipta MWNS
@@ -39,7 +39,7 @@ exclude:
   - .gitignore
   - vendor
 
-feedback_subject_line: Loker Banua
+feedback_subject_line: belok
 
 feedback_email: master@mwns.my.id
 
