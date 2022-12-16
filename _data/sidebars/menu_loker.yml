@@ -49,6 +49,31 @@ entries:
       external_url: https://www.facebook.com/info.lowongan.kerja.kalimantan
       output: web, pdf
 
+    subfolder
+    - title: Konfig Clash
+      output: web, pdf
+      subfolderitems:
+
+      - title: Clash Openwrt
+        url: /clash_openwrt.html
+        output: web, pdf
+
+      - title: Clash Android
+        url: /clash_android.html
+        output: web, pdf
+
+      - title: Clash Magisk
+        url: /clash_magisk.html
+        output: web, pdf
+
+      - title: Clash Termux
+        url: /clash_termux.html
+        output: web, pdf
+
+      - title: Clash Wimdows
+        url: /clash_windows.html
+        output: web, pdf
+
   - title: Pilih Lokasi Kabupaten
     output: web
     folderitems:
