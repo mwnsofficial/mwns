@@ -60,3 +60,4 @@ summary: Mengisi form untuk pengajuan lowongan kerja.
     </div>
   </div>
 </div>
+<script src="/js/formdata.js"></script>
