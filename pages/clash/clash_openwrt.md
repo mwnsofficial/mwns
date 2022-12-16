@@ -15,7 +15,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/final.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -30,7 +30,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/bronze.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -45,7 +45,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/silver.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -60,7 +60,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/gold.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -75,7 +75,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/platinum.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -90,7 +90,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/limited.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -105,7 +105,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/finalextreyre.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -120,7 +120,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/april.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -135,7 +135,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/juni.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -150,7 +150,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simaster.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -165,7 +165,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterv1.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -180,7 +180,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterv11.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -195,7 +195,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterv12.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -210,7 +210,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterv13.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -225,7 +225,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterv14.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -240,7 +240,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterv15.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -255,7 +255,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterv16.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -270,7 +270,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterv17.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -285,7 +285,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterv18.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -300,7 +300,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterv19.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -315,7 +315,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterv2.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -330,7 +330,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterevo1.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -345,7 +345,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterevo11.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -360,7 +360,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/simasterevo12.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -375,7 +375,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clashmwns.jpg" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/openwrt/clashmasterv1.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
