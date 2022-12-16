@@ -25,9 +25,13 @@ layout: default
         <div class="summary">{{page.summary}}</div>
         {% endif %}
 
+        {% if site.iklan_adsense %}
         {% include iklan_adsense.html %}
         {% endif %}
+
         {{ content }}
+
+        {% if site.iklan_adsense %}
         {% include iklan_adsense.html %}
         {% endif %}
 
