@@ -21,98 +21,98 @@ File ini bisa langsung di simpan atau bisa di download untuk selanjutnya bisa an
 
 ![CV 1](/images/cv1.png)
 
-Download format [WORD 1](/word/cv1.jpg)
+Download format <a alt='docx1' href='https://www.clashmwns.com/cv1_docx'>DOCX CV1</a>
 
-Download format [PDF 1](/pdf/cv1.jpg)
+Download format <a alt='pdf1' href='https://www.clashmwns.com/cv1_pdf'>PDF CV1</a>
 
-Download format [JPG 1](/images/cv1.jpg)
+Download format <a alt='jpg1' href='https://www.clashmwns.com/cv1_jpg'>JPG CV1</a>
 
 ### Berkas 2
 
 ![CV 2](/images/cv2.png)
 
-Download format [WORD 2](/word/cv2.jpg)
+Download format <a alt='docx2' href='https://www.clashmwns.com/cv2_docx'>DOCX CV2</a>
 
-Download format [PDF 2](/pdf/cv2.jpg)
+Download format <a alt='pdf2' href='https://www.clashmwns.com/cv2_pdf'>PDF CV2</a>
 
-Download format [JPG 2](/images/cv2.jpg)
+Download format <a alt='jpg2' href='https://www.clashmwns.com/cv2_jpg'>JPG CV2</a>
 
 ### Berkas 3
 
 ![CV 3](/images/cv3.png)
 
-Download format [WORD 3](/word/cv3.jpg)
+Download format <a alt='docx3' href='https://www.clashmwns.com/cv3_docx'>DOCX CV3</a>
 
-Download format [PDF 3](/pdf/cv3.jpg)
+Download format <a alt='pdf3' href='https://www.clashmwns.com/cv3_pdf'>PDF CV3</a>
 
-Download format [JPG 3](/images/cv3.jpg)
+Download format <a alt='jpg3' href='https://www.clashmwns.com/cv3_jpg'>JPG CV3</a>
 
 ### Berkas 4
 
 ![CV 4](/images/cv4.png)
 
-Download format [WORD 4](/word/cv4.jpg)
+Download format <a alt='docx4' href='https://www.clashmwns.com/cv4_docx'>DOCX CV4</a>
 
-Download format [PDF 4](/pdf/cv4.jpg)
+Download format <a alt='pdf4' href='https://www.clashmwns.com/cv4_pdf'>PDF CV4</a>
 
-Download format [JPG 4](/images/cv4.jpg)
+Download format <a alt='jpg4' href='https://www.clashmwns.com/cv4_jpg'>JPG CV4</a>
 
 ### Berkas 5
 
 ![CV 5](/images/cv5.png)
 
-Download format [WORD 5](/word/cv5.jpg)
+Download format <a alt='docx5' href='https://www.clashmwns.com/cv5_docx'>DOCX CV5</a>
 
-Download format [PDF 5](/pdf/cv5.jpg)
+Download format <a alt='pdf5' href='https://www.clashmwns.com/cv5_pdf'>PDF CV5</a>
 
-Download format [JPG 5](/images/cv5.jpg)
+Download format <a alt='jpg5' href='https://www.clashmwns.com/cv5_jpg'>JPG CV5</a>
 
 ### Berkas 6
 
 ![CV 6](/images/cv6.png)
 
-Download format [WORD 6](/word/cv6.jpg)
+Download format <a alt='docx6' href='https://www.clashmwns.com/cv6_docx'>DOCX CV6</a>
 
-Download format [PDF 6](/pdf/cv6.jpg)
+Download format <a alt='pdf6' href='https://www.clashmwns.com/cv6_pdf'>PDF CV6</a>
 
-Download format [JPG 6](/images/cv6.jpg)
+Download format <a alt='jpg6' href='https://www.clashmwns.com/cv6_jpg'>JPG CV6</a>
 
 ### Berkas 7
 
 ![CV 7](/images/cv7.png)
 
-Download format [WORD 7](/word/cv7.jpg)
+Download format <a alt='docx7' href='https://www.clashmwns.com/cv7_docx'>DOCX CV7</a>
 
-Download format [PDF 7](/pdf/cv7.jpg)
+Download format <a alt='pdf7' href='https://www.clashmwns.com/cv7_pdf'>PDF CV7</a>
 
-Download format [JPG 7](/images/cv7.jpg)
+Download format <a alt='jpg7' href='https://www.clashmwns.com/cv7_jpg'>JPG CV7</a>
 
 ### Berkas 8
 
 ![CV 8](/images/cv8.png)
 
-Download format [WORD 8](/word/cv8.jpg)
+Download format <a alt='docx8' href='https://www.clashmwns.com/cv8_docx'>DOCX CV8</a>
 
-Download format [PDF 8](/pdf/cv8.jpg)
+Download format <a alt='pdf8' href='https://www.clashmwns.com/cv8_pdf'>PDF CV8</a>
 
-Download format [JPG 8](/images/cv8.jpg)
+Download format <a alt='jpg8' href='https://www.clashmwns.com/cv8_jpg'>JPG CV8</a>
 
 ### Berkas 9
 
 ![CV 9](/images/cv9.png)
 
-Download format [WORD 9](/word/cv9.jpg)
+Download format <a alt='docx9' href='https://www.clashmwns.com/cv9_docx'>DOCX CV9</a>
 
-Download format [PDF 9](/pdf/cv9.jpg)
+Download format <a alt='pdf9' href='https://www.clashmwns.com/cv9_pdf'>PDF CV9</a>
 
-Download format [JPG 9](/images/cv9.jpg)
+Download format <a alt='jpg9' href='https://www.clashmwns.com/cv9_jpg'>JPG CV9</a>
 
 ### Berkas 10
 
 ![CV 10](/images/cv10.png)
 
-Download format [WORD 10](/word/cv10.jpg)
+Download format <a alt='docx10' href='https://www.clashmwns.com/cv10_docx'>DOCX CV10</a>
 
-Download format [PDF 10](/pdf/cv10.jpg)
+Download format <a alt='pdf10' href='https://www.clashmwns.com/cv10_pdf'>PDF CV10</a>
 
-Download format [JPG 10](/images/cv10.jpg)
+Download format <a alt='jpg10' href='https://www.clashmwns.com/cv10_jpg'>JPG CV10</a>
