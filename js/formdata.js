@@ -9,7 +9,7 @@ form.addEventListener("submit", function (e) {
     object[key] = value;
   });
   var json = JSON.stringify(object);
-  result.innerHTML = "Please wait...";
+  result.innerHTML = "mohon tunggu...";
 
   fetch("https://api.web3forms.com/submit", {
     method: "POST",
@@ -34,7 +34,7 @@ form.addEventListener("submit", function (e) {
     })
     .catch((error) => {
       console.log(error);
-      result.innerHTML = "Something went wrong!";
+      result.innerHTML = "Ada yang salah, coba ulangi!";
     })
     .then(function () {
       form.reset();
