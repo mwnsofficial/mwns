@@ -6,6 +6,10 @@ sidebar: menu_loker
 permalink: formulir.html
 summary: Mengisi form untuk pengajuan lowongan kerja.
 ---
+<html>
+<head>
+</head>
+<body>
     <form action="sendmail.php" method="POST">
         <table>
             <tr>
@@ -20,3 +24,6 @@ summary: Mengisi form untuk pengajuan lowongan kerja.
             </tr>
         </table>
     </form>
+</body>
+</head>
+</html>
