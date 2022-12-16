@@ -6,10 +6,9 @@ sidebar: menu_loker
 permalink: formulir.html
 summary: Mengisi form untuk pengajuan lowongan kerja.
 ---
-<html>
-<head>
-</head>
 <body>
+<p>Bagi anda yang mempunya lowongan kerja untuk para pencari kerja</p>
+<p>Anda bisa menghubungi admin melalui pesan emain yang ada pada tombol di bawah ini.</p>
     <form action="sendmail.php" method="POST">
         <table>
             <tr>
@@ -25,5 +24,3 @@ summary: Mengisi form untuk pengajuan lowongan kerja.
         </table>
     </form>
 </body>
-</head>
-</html>
