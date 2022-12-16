@@ -21,6 +21,8 @@ github_editme_path: mwnsofficial/lokerbanua/blob/main/
 google_analytics: UA-250912504-1
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
+google_adsense: pub-1794381705838564
+
 host: 127.0.0.1
 # the preview server used. Leave as is.
 
