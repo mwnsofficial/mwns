@@ -1,6 +1,6 @@
 ---
-title: "Loker Restsurant"
-tagName: automotive
+title: "Loker Restaurant"
+tagName: restaurant
 search: exclude
 permalink: tag_restaurant.html
 sidebar: menu_loker
