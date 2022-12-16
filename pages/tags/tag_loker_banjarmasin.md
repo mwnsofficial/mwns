@@ -7,5 +7,3 @@ sidebar: menu_loker
 folder: tags
 ---
 {% include taglogic.html %}
-
-{% include links.html %}
