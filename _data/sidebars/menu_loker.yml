@@ -1,3 +1,6 @@
+<!-- bannerku -->
+{% include iklan_adsense.html %}
+
 entries:
 - title: sidebar
   product: Wellcome Pelamar dan Pembuka Lowongan Kerja
