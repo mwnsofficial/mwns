@@ -20,23 +20,23 @@ summary: Mengisi form untuk pengajuan lowongan kerja.
       <div class="m-7">
         <form action="https://api.web3forms.com/submit" method="POST" id="form">
           <input type="hidden" name="access_key" value="9bd28744-e2d8-4326-8fe7-65cd7311714c" />
-          <input type="hidden" name="subject" value="New Submission from Web3Forms" />
+          <input type="hidden" name="subject" value="Pesan permohonan membuka lowongan kerja" />
           <input type="checkbox" name="botcheck" id="" style="display: none;" />
 
           <div class="mb-6">
-            <label for="name" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Nama Anda</label>
+            <center><label for="name" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Nama Anda</label></center><br>
             <input type="text" name="name" id="name" placeholder="Contoh, Muhammad Yusuf" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
           </div>
           <div class="mb-6">
-            <label for="email" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Email Anda </label>
+            <center><label for="email" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Email Anda</label></center><br>
             <input type="email" name="email" id="email" placeholder="Contoh, master@mwns.my.id" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
           </div>
           <div class="mb-6">
-            <label for="phone" class="text-sm text-gray-600 dark:text-gray-400">No Telp    </label>
+            <center><label for="phone" class="text-sm text-gray-600 dark:text-gray-400">No Telp</label></center><br>
             <input type="text" name="phone" id="phone" placeholder="0877-6424-1047" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
           </div>
           <div class="mb-6">
-          <label for="message" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Pesan Anda </label>
+          <center><label for="message" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Pesan Anda</label></center><br>
           
           <textarea rows="5" name="message" id="message" placeholder="Isi pesan...." class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" required></textarea>
           </div>
