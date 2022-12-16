@@ -29,10 +29,10 @@ topnav:
       url: /berkas
 
 topnav_dropdowns:
-- title: Daftar Loker
+- title: Pilih Loker
   folders:
 
-  - title: Loker Kabupaten
+  - title: Pilih Lokasi Kabupaten
     folderitems:
 
     - title: Banjarmasin
@@ -83,7 +83,7 @@ topnav_dropdowns:
     - title: Samarinda
       url: /tag_loker_samarinda.html
 
-  - title: Loker Propinsi
+  - title: Pilih Lokasi Propinsi
     folderitems:
     
     - title: Kalimantan Selatan
