@@ -49,7 +49,7 @@ entries:
       external_url: https://www.facebook.com/info.lowongan.kerja.kalimantan
       output: web, pdf
 
-    subfolder
+    subfolders:
     - title: Konfig Clash
       output: web, pdf
       subfolderitems:
