@@ -309,7 +309,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/android/simasterevo1.png" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/android/simasterevov1.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -323,7 +323,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/android/simasterevo11.png" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/android/simasterevov11.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
@@ -337,7 +337,7 @@ folder: clash
         <div class="panel panel-default text-center">
         <div class="panel-heading">
         <span>
-        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/android/simasterevo12.png" title="clashmwns" width="320" />
+        <img alt="clashmwns" border="0" data-original-height="240" data-original-width="320" height="240" src="/images/clash/android/simasterevov12.png" title="clashmwns" width="320" />
         </span>
         </div>
         <div class="panel-body">
