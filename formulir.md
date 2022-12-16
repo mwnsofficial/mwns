@@ -4,15 +4,8 @@ keywords: formulir
 tags: [loker_banua]
 sidebar: menu_loker
 permalink: formulir.html
-summary: Formulir Pembuka Loker.
---- 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kirim Formulir pembuka loker</title>
-</head>
-<body>
+summary: Mengisi form untuk pengajuan lowongan kerja.
+---
     <form action="sendmail.php" method="POST">
         <table>
             <tr>
@@ -27,5 +20,3 @@ summary: Formulir Pembuka Loker.
             </tr>
         </table>
     </form>
-</body>
-</html>
