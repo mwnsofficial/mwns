@@ -6,17 +6,6 @@ sidebar: menu_loker
 permalink: formulir.html
 summary: Mengisi form untuk pengajuan lowongan kerja.
 ---
-<!-- 
-    =======================================================================
-
-    This is a working contact form. To receive email, 
-    Replace YOUR_ACCESS_KEY_HERE with your actual Access Key.
-
-    Create Access Key here 👉 https://web3forms.com/
-
-    =======================================================================
- -->
-
 <div class="flex items-center min-h-screen bg-gray-50 dark:bg-gray-900">
   <div class="container mx-auto">
     <div class="max-w-md mx-auto my-10 bg-white p-5 rounded-md shadow-sm">
@@ -30,7 +19,7 @@ summary: Mengisi form untuk pengajuan lowongan kerja.
       </div>
       <div class="m-7">
         <form action="https://api.web3forms.com/submit" method="POST" id="form">
-          <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE" />
+          <input type="hidden" name="access_key" value="9bd28744-e2d8-4326-8fe7-65cd7311714c" />
           <input type="hidden" name="subject" value="New Submission from Web3Forms" />
           <input type="checkbox" name="botcheck" id="" style="display: none;" />
 
