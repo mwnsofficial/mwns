@@ -40,5 +40,3 @@ Saya saat ini mendalami pekerjaan pada bidang di bawah ini:
 ## Memulai Tutorial
 
 Untuk anda yang sudah tidak sabar lagi memulai pembelajaran materi ini silahkan masuk ke [Memulai dari awal](https://www.clashmwns.com/index.html).
-
-{% include links.html %}
