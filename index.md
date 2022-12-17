@@ -7,9 +7,9 @@ permalink: index.html
 summary: Selamat datang di Loker Banua, lowongan kerja yang tepat untuk anda.
 ---
 
-{% include note.html content="Sebelum memulai menggunakan layanan clashmwms berikan. Alangkah baiknya untuk membaca <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/disclaimer'>Disclaimer</a> dan juga <a alt='disclaimer clashmwns' href='https://www.clashmwns.com/privacy-policy'>Privacy Policy</a>. Dukung clashmwns untuk ke depan nya selalu berikan informasi paling terupdate <a alt='subscribe' href='https://youtube.com/@mwnsofficial'>Subscribe</a>. Ikuti grup telegram clashmwms <a alt='telegram' href='https://t.me/+MV1v5tLmOSI2ODU1'>Disini</a> dan bagi anda yang ingin kopi ke clashmwns bisa melalui <a alt='donasi' href='https://www.clashmwns.com/donate.html'>Donasi</a>." %}
+{% include note.html content="Sebelum memulai menggunakan layanan yang kabar loker berikan. Alangkah baiknya untuk membaca <a alt='disclaimer' href='https://www.clashmwns.com/disclaimer'>Disclaimer</a> dan juga <a alt='privacy policy' href='https://www.clashmwns.com/privacy-policy'>Privacy Policy</a>. Dukung kabar loker untuk ke depan nya selalu berikan informasi paling terupdate <a alt='subscribe' href='https://youtube.com/@mwnsofficial'>Subscribe</a>. Ikuti grup telegram kabar loker <a alt='telegram' href='https://t.me/+MV1v5tLmOSI2ODU1'>Disini</a> dan bagi anda yang ingin kopi ke kabar loker bisa melalui <a alt='donasi' href='https://www.clashmwns.com/donate.html'>Donasi</a>." %}
 
-## Loker Banua
+## Sambutan Kabar Loker
 
 Selamat datang di Loker Banua, sebuah situs lowongan kerja yang ada di banua dan kalimantan.
 
