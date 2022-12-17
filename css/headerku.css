@@ -2,11 +2,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 15px;
+  font-size: 10px;
   padding: 5px;
   width: 100%;
-  height: 30px;
-  background-color: grey;
+  height: 40px;
+  background-color: #248ec2;
   box-shadow: 0 7px 15px 0 rgba(0, 0, 0, 0.5);
 }
 
@@ -23,7 +23,7 @@
 
 .navigation > li > a {
   color: white;
-  font-size: 15px;
+  font-size: 10px;
   text-decoration: none;
   text-transform: capitalize;
 }
