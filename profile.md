@@ -1,21 +1,21 @@
 ---
-title: "Profile Loker Banua"
+title: "Profile Kabar Loker"
 keywords: profile
 tags: [loker_banua]
 sidebar: menu_loker
 permalink: profile.html
-summary: profile dari loker banua.
+summary: profile dari kabar loker.
 ---
 
 ## Tentang Loker Banua
 
-Selamat datang di [lokerbanua](https://www.clashmwns.com), kami sangat berterima kasih kepada anda yang sudah menggunakan layanan di situs ini.
+Selamat datang di [kabar loker](https://www.clashmwns.com), kami sangat berterima kasih kepada anda yang sudah menggunakan layanan di situs ini.
 
 Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang profile kami ke anda agar anda bisa lebih percaya kepada kami.
 
 ```
 Nama Pemilik: Muhammad Yusuf
-Website: Loker Banua
+Website: Kabar Loker
 Alamat Website: Jl. A. Yani KM 14.500, Gg. Antasari No.80
 Kecamatan: Gambut
 Kelurahan: Gambut
