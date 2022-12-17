@@ -1,12 +1,11 @@
 <footer>
        {% include nav_footer.html %}
-
-           <nav class="wrapper">
+           <nav class="waffer">
                &copy;{{ site.time | date: "%Y"  }} {{site.company_name}}. <br />
 {% if page.last_updated %}<span>Update Terakhir:</span> {{page.last_updated}}<br/>{% endif %} Semua artikel perbarui pada: {{ site.time | date: "%-d - %b - %Y"  }} <br />
 <p><img src="{{ "images/company_logo.png" }}" alt="Company logo" width="50px" height="35px" /></p>
            </nav>
-
+<br />
         <!-- bannerku -->
     {% include iklan_adsense.html %}
 
