@@ -6,8 +6,6 @@ sidebar: menu_loker
 permalink: sitemap.html
 summary: Cari daftar lowongan kerja dengan mudah di sitemap kabar loker.
 ---
-
-<!doctype html>
 <html lang="en">
 
 <head>
