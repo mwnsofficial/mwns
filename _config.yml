@@ -74,7 +74,7 @@ defaults:
       search: true
       sidebar: menu_loker
       topnav: topnav
-      navigasiku: navigasiku
+      navigasiku: navigasi
 
   -
     scope:
@@ -96,7 +96,7 @@ defaults:
       search: true
       sidebar: menu_loker
       topnav: topnav
-      navigasiku: navigasiku
+      navigasiku: navigasi
 
 sidebars:
 - menu_loker
