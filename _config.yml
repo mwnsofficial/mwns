@@ -1,11 +1,11 @@
 # ini jalur repository blog ini
-repository: mwnsofficial/belok
+repository: mwnsofficial/lokerbanua
 
 # bisa multifungsi selain web bisa juga menampilkan pdf
 output: web
 
 # nama head pada navigasi
-topnav_title: belok
+topnav_title: loker banua
 
 # optimasi search engine google
 site_title: Temukan berita lowongan kerja hanya di belok.
@@ -39,7 +39,7 @@ exclude:
   - .gitignore
   - vendor
 
-feedback_subject_line: belok
+feedback_subject_line: loker banua
 
 feedback_email: master@mwns.my.id
 
@@ -69,7 +69,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
       sidebar: menu_loker
