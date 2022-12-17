@@ -4,7 +4,7 @@ entries:
   version: 
   folders:
 
-  - title: Tentang Kaba Loker
+  - title: Tentang Kabar Loker
     output: web, pdf
     folderitems:
 
@@ -43,10 +43,6 @@ entries:
 
     - title: Perkenalan
       url: /index.html
-      output: web, pdf
-
-    - title: Facebook
-      external_url: https://www.facebook.com/info.lowongan.kerja.kalimantan
       output: web, pdf
 
   - title: Konfig Clash
