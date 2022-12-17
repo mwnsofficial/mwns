@@ -1,3 +1,12 @@
+---
+title: "sitemap Loker Banua"
+keywords: sitemap
+tags: [loker_banua]
+sidebar: menu_loker
+permalink: sitemap.html
+summary: Cari daftar lowongan kerja dengan mudah di sitemap kabar loker.
+---
+
 <!doctype html>
 <html lang="en">
 
@@ -121,7 +130,7 @@ Total Halaman: 93</span><br />
 	<div id="cont">
 		<ul class="level-0">
 
-            <li class="lhead">/  <span class="lcount">93 pages</span></li>
+            <li class="lhead">/  <span class="lcount">93 Halaman tersedia untuk anda</span></li>
             
 <li class="lpage"><a href="https://www.clashmwns.com/" title="Wellcome Loker Banua">Wellcome Loker Banua</a></li>
 <li class="lpage"><a href="https://www.clashmwns.com/berita.html" title="Berita Loker | Temukan berita lowongan kerja hanya di kabar loker.">Berita Loker | Temukan berita lowongan kerja hanya di kabar loker.</a></li>
