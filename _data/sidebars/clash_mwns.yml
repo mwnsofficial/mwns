@@ -4,7 +4,7 @@ entries:
   version: 
   folders:
 
-  - title: Loker Banua
+  - title: Tentang Kaba Loker
     output: web, pdf
     folderitems:
 
@@ -15,6 +15,10 @@ entries:
 
     - title: Arsip
       url: /arsip_berita.html
+      output: web, pdf
+
+    - title: Sitemap
+      url: /sitemap.html
       output: web, pdf
 
     - title: Profile
