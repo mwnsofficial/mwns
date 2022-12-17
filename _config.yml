@@ -110,4 +110,7 @@ description: "Temukan lowongan kerja hanya di kabar loker."
 github: [metadata]
 
 
+plugins:
+  - jekyll-sitemap
+
 # Hak Cipta MWNS
