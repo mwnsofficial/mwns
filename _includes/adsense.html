@@ -1,5 +1,6 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1794381705838564"
-     crossorigin="anonymous"></script>
+{% if jekyll.environment == "production" %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- bannerku -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -10,4 +11,4 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
+{% endif %}
