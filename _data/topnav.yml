@@ -1,12 +1,16 @@
 topnav:
 - title: Topnav
+  items:
+
+    - title: Home
+      url: /berita
+
+topnav_dropdowns:
+- title: Pilih menu
   folders:
 
   - title: Tentang Kabar Loker
     folderitems:
-
-    - title: Home
-      url: /berita
     
     - title: Arsip
       url: /arsip_berita
@@ -31,10 +35,6 @@ topnav:
     
     - title: Berkas CV
       url: /berkas
-
-topnav_dropdowns:
-- title: Pilih Loker
-  folders:
 
   - title: Pilih Lokasi Kabupaten
     folderitems:
