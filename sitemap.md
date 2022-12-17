@@ -220,7 +220,6 @@ Total Halaman: 93</span><br />
 <li class="lpage"><a href="https://www.clashmwns.com/oc_simaster_v1_8.html" title="Simaster V1.8">Simaster V1.8</a></li>
 <li class="lpage"><a href="https://www.clashmwns.com/oc_simaster_evo_v1_1.html" title="Simaster Evo V1.1">Simaster Evo V1.1</a></li>
 <li class="lpage"><a href="https://www.clashmwns.com/oc_clashmaster_v1.html" title="clashmaster V1 Konfigurasi">clashmaster V1 Konfigurasi</a></li>
-<li class="lpage"><a href="https://www.clashmwns.com/author.html" title="author">author</a></li>
 <li class="lpage"><a href="https://www.clashmwns.com/sitemap.html" title="sitemap Kabar Loker">sitemap Kabar Loker</a></li>
 <li class="lpage last-page"><a href="https://www.clashmwns.com/author" title="author">author</a></li>
 </ul>
