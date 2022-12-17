@@ -1,24 +1,477 @@
----
-layout: none
-search: exclude
----
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for post in site.posts %}
-  {% unless post.search == "exclude" %}
-  <url>
-    <loc>{{site.url}}{{post.url}}</loc>
-  </url>
-  {% endunless %}
-  {% endfor %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
-  {% for page in site.html_pages %}
-  {% unless page.search == "exclude" %}
-  <url>
-    <loc>{{site.url}}{{ page.url}}</loc>
-  </url>
-  {% endunless %}
-  {% endfor %}
+<url>
+  <loc>https://www.clashmwns.com/</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/berita.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/berita</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/arsip_berita</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/disclaimer</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/privacy_policy</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/profile</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/donasi</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/formulir</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/berkas</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_banjarmasin.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_banjarbaru.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_banjar.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_tanah_laut.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_tanah_bumbu.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_rantau.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_hss.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_hst.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_hsu.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_tabalong.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_batola.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_kapuas.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_palangkaraya.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_balikpapan.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_samarinda.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_kalimantan_selatan.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_kalimantan_tengah.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_kalimantan_timur.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_kalimantan_barat.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_kalimantan_utara.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/arsip_berita.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/profile.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/disclaimer.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/privacy_policy.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/donasi.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/formulir.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/berkas.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/index.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/clash_openwrt.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/clash_android.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/clash_magisk.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/clash_termux.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/clash_windows.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_loker_banua.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/loker_restaurant_checker_dapur_kalsel.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_restaurant.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/loker_automotive_melak_kaltim.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/tag_automotive.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv1_docx</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv1_pdf</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv1_jpg</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv2_docx</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv2_pdf</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv2_jpg</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv3_docx</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv3_pdf</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv3_jpg</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv4_docx</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv4_pdf</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv4_jpg</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv5_docx</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv5_pdf</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv5_jpg</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv6_docx</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv6_pdf</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv6_jpg</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv7_docx</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv7_pdf</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv7_jpg</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv8_docx</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv8_pdf</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv8_jpg</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv9_docx</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv9_pdf</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv9_jpg</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv10_docx</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv10_pdf</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/cv10_jpg</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_final.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_bronze.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_gold.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_platinum.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_limited_edition.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_simaster_v1_1.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_simaster_v1_2.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_simaster_v1_5.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_simaster_v1_7.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_simaster_v1_8.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_simaster_evo_v1_1.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/oc_clashmaster_v1.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/author.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/sitemap.html</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.clashmwns.com/author</loc>
+  <lastmod>2022-12-17T16:13:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
