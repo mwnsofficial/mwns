@@ -1,7 +1,7 @@
 .wrapper {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: right;
   font-size: 10px;
   padding: 5px;
   width: 100%;
@@ -13,7 +13,7 @@
 .navigation {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: right;
 }
 
 .navigation > li {
