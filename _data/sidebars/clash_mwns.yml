@@ -13,10 +13,6 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Arsip
-      url: /arsip_berita.html
-      output: web, pdf
-
     - title: Sitemap
       url: /sitemap.html
       output: web, pdf
