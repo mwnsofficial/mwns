@@ -13,11 +13,23 @@
 .wafer {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  font-size: 8px;
+  padding: 1px;
+  width: 100%;
+  height: 25px;
+  color: white;
+  background-color: #347ebf;
+}
+
+.wafer1 {
+  display: flex;
+  justify-content: space-between;
   align-items: right;
   font-size: 8px;
   padding: 1px;
   width: 100%;
-  height: 80px;
+  height: 50px;
   color: white;
   background-color: #347ebf;
 }
@@ -25,12 +37,12 @@
 .navigation {
   display: flex;
   justify-content: space-between;
-  align-items: right;
+  align-items: center;
 }
 
 .navigation > li {
   list-style-type: none;
-  padding: 5px;
+  padding: 2px;
 }
 
 .navigation > li > a {
@@ -41,6 +53,29 @@
 }
 
 .navigation>li>a:hover {
+  color: black;
+  transtition: all .3s ease-in-out
+}
+
+.navigation-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation-footer > li {
+  list-style-type: none;
+  padding: 5px;
+}
+
+.navigation-footer > li > a {
+  color: white;
+  font-size: 10px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.navigation-footer>li>a:hover {
   color: black;
   transtition: all .3s ease-in-out
 }
