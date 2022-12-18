@@ -1,14 +1,21 @@
 <footer>
-       {% include nav_footer.html %}
-           <nav class="wafer">
-               &copy;{{ site.time | date: "%Y"  }} {{site.company_name}}. <br />
-{% if page.last_updated %}<span>Update Terakhir:</span> {{page.last_updated}}<br/>{% endif %} Semua artikel perbarui pada: {{ site.time | date: "%-d - %b - %Y"  }} <br />
-<p><img src="{{ "images/company_logo.png" }}" alt="Company logo" width="80px" height="40px" /></p>
-           </nav>
-<br />
-        <!-- bannerku -->
-    {% include iklan_adsense.html %}
+   <nav class="wafer">
+     <ul class="navigation">
+        <li class="fa fa-home fa-lg brand"><a href="/berita.html">Home</a></li>
+           <li class="fa fa-code fa-lg brand"><a href="/clash_openwrt.html">Config Clash</a></li>
+              <li class="fa fa-youtube fa-lg brand"><a href="https://www.youtube.com/@mwnsofficial">Subscribe</a></li>
+                </ul>
 
+                   <hr />
+
+                        &copy;{{ site.time | date: "%Y"  }} {{site.company_name}}. <br />
+                     {% if page.last_updated %}<span>Update Terakhir:</span> {{page.last_updated}}<br/>{% endif %} Semua artikel perbarui pada: {{ site.time | date: "%-d - %b - %Y"  }} <br />
+                  <p><img src="{{ "images/company_logo.png" }}" alt="Company logo" width="80px" height="40px" /></p>
+               </nav>
+            <hr />
+         <br />
+      <!-- bannerku -->
+   {% include iklan_adsense.html %}
 </footer>
 
 {% comment %} Hak Cipta MWNS {% endcomment %}
