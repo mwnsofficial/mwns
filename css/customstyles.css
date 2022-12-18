@@ -95,21 +95,18 @@ margin-top: -40px
 
 
 /**
- * Posts images
+ * Posts images start ----------
  */
 
 .featured-image-post {
   width: 100%;
   height: 320px;
-  object-fit: respondsive;
+  object-fit: cover;
 }
 
-.blog-roll-image {
-  width: 100%;
-  height: 320px;
-  object-fit: respondsive;
-}
-
+/**
+ * Posts images end ------------
+ */
 
 .pageSummary {
     font-size:13px;
