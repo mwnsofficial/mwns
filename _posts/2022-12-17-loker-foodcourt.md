@@ -4,8 +4,8 @@ published: true
 permalink: loker-foodcourt.html
 summary: "Loker foodcourt di banjarbaru."
 tags: [kalimantan_selatan, loker_banjarbaru, event, advertising_public]
+image: /images/foodcourt.jpg
 ---
-![foodcourt](/images/foodcourt.jpg)
 
 Foodcourt terbesar di Banjarbaru yang akan segera dibuka membutuhkan Staf Event & Promotion
 
