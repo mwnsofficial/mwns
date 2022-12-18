@@ -7,7 +7,7 @@ layout: default
     {%- if page.image -%}
       <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
     {%- else -%}
-      {%- assign postImage = "/assets/images/image-default.jpg" -%}
+      {%- assign postImage = "/images/image-default.jpg" -%}
       <img src="{{- postImage | relative_url -}}" alt="" class="featured-image-post">
     {%- endif -%}
         <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
