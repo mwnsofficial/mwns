@@ -25,8 +25,8 @@ Foodcourt terbesar di Banjarbaru yang akan segera dibuka membutuhkan Staf Event 
 
 ## KIRIM CV:
 
-[Email](mailto:foodcourt.p4@gmail.com)
+<a href="mailto:foodcourt.p4@gmail.com" class="btn btn-primary navbar-btn cursorNorm" role="button">Email{{tag}}</a>
 
-[Herry](https://wa.me/+6282155324626)
+<a href="https://wa.me/+6282155324626" class="btn btn-primary navbar-btn cursorNorm" role="button">Whatsapp{{tag}}</a>
 
 {% include note.html content="lamaran berakhir pada 23 desember 2022." %}
