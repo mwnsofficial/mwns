@@ -37,10 +37,10 @@ Telah di buka lowongan kerja di checker dapur.
 
 ### Kirim lamaran ke:
 
-- shanghaipalacebjm@gmail.com
+<a href="shanghaipalacebjm@gmail.com" class="btn btn-primary navbar-btn cursorNorm" role="button">Email{{tag}}</a>
 
 ### Lokasi
 
 - Jl. H. Djok Mentaya No.80, Kertak Baru Ilir, Banjarmasin Tengah
 
-{% include note.html content="info lebih lanjut bisa hubungi <a href="tel:+6282154591231" class="btn btn-primary navbar-btn cursorNorm" role="button">Telp{{tag}}</a>" %}
+Info lebih lanjut bisa hubungi <a href="tel:+62-821-5459-1231" class="btn btn-primary navbar-btn cursorNorm" role="button">Telp{{tag}}</a>
