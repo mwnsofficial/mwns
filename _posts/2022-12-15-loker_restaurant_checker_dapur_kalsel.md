@@ -43,4 +43,4 @@ Telah di buka lowongan kerja di checker dapur.
 
 - Jl. H. Djok Mentaya No.80, Kertak Baru Ilir, Banjarmasin Tengah
 
-{% include note.html content="info lebih lanjut bisa hubungi <a href="tel:082154591231" class="btn btn-primary navbar-btn cursorNorm" role="button">Telp{{tag}}</a>" %}
+{% include note.html content="info lebih lanjut bisa hubungi <a href="tel:+6282154591231" class="btn btn-primary navbar-btn cursorNorm" role="button">Telp{{tag}}</a>" %}
