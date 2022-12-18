@@ -4,9 +4,8 @@ published: true
 permalink: loker_automotive_melak_kaltim.html
 summary: "Loker automotive di melak samarinda."
 tags: [kalimantan_timur, loker_samarinda, automotive]
+image: /images/otomotif-melak-kaltim.jpg
 ---
-
-![otomotif melak kaltim](/images/otomotif-melak-kaltim.jpg)
 
 Di buka lowongan kerja untuk :
  
@@ -36,4 +35,4 @@ Dicari yang benar-benar serius kerja, ga hanya main-main.
 
 Info lebih lanjut :
 
-- Whatsapp 082256846995
+- [Whatsapp](https://wa.me/6282256846995)
