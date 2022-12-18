@@ -29,12 +29,6 @@ layout: default
 {% endif %}
 
 <div class="post-content">
-   {%- if post.image -%}
-     <img src="{{- post.image | relative_url -}}" alt="{{ page.title }}" class="blog-roll-image">
-   {%- else -%}
-   {%- assign postImage = "/images/image-default.jpg" -%}
-     <img src="{{- postImage | relative_url -}}" alt="{{ page.title }}" class="blog-roll-image">
-   {%- endif -%}
    {% if page.summary %}
     <div class="summary">{{page.summary}}</div>
    {% endif %}
@@ -52,7 +46,11 @@ layout: default
   <!-- bannerku -->
   {% include iklan_adsense.html %}
 
+   <br />
+
    {{content}}
+
+   <br />
 
   <!-- bannerku -->
   {% include iklan_adsense.html %}
