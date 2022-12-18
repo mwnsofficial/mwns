@@ -4,9 +4,8 @@ published: true
 permalink: loker_restaurant_checker_dapur_kalsel.html
 summary: "Loker restauran di banjarmasin."
 tags: [kalimantan_selatan, loker_banjarmasin, restaurant]
+image: /images/checker-dapur.jpg
 ---
-
-![checker dapur](/images/checker-dapur.jpg)
 
 Telah di buka lowongan kerja di checker dapur.
 
