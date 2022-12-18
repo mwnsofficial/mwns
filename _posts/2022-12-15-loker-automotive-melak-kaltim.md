@@ -35,4 +35,4 @@ Dicari yang benar-benar serius kerja, ga hanya main-main.
 
 Info lebih lanjut :
 
-- [Whatsapp](https://wa.me/6282256846995)
+<a href="https://wa.me/6282256846995" class="btn btn-primary navbar-btn cursorNorm" role="button">Whatsapp{{tag}}</a>
