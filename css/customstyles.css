@@ -101,14 +101,13 @@ margin-top: -40px
 .featured-image-post {
   width: 100%;
   height: 320px;
-  object-fit: cover;
+  object-fit: respondsive;
 }
 
 .blog-roll-image {
-  width: 100px;
-  height: 100px;
-  object-fit: cover;
-  float: left;
+  width: 100%;
+  height: 320px;
+  object-fit: respondsive;
 }
 
 
