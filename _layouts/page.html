@@ -32,13 +32,13 @@ layout: default
 
    {% if page.summary %}
     <div class="summary">{{page.summary}}</div>
-   {% endif %}
    {%- if post.image -%}
      <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
    {%- else -%}
    {%- assign postImage = "/images/image-default.jpg" -%}
      <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">
    {%- endif -%}
+   {% endif %}
 
     {% unless page.toc == false %}
     {% include toc.html %}
@@ -48,8 +48,7 @@ layout: default
     {% if site.github_editme_path %}
 
     <a target="_blank" rel="noopener" href="https://github.com/{{site.github_editme_path}}{{page.path}}" class="btn btn-default githubEditButton" role="button"><i class="fa fa-pencil fa-lg"></i> Perbarui</a>
-
-    {% endif %}
+   {% endif %}
 
   <!-- bannerku -->
   {% include iklan_adsense.html %}
