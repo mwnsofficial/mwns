@@ -1,0 +1,42 @@
+entries:
+- title: sidebar
+  product: Daftar post berdasarkan kategori
+  version: 
+  folders:
+
+  - title: Beranda Utama
+    url: /index.html
+    output: web, pdf
+    type: homepage
+
+  - title: Lihat Semua Post
+    url: /berita.html
+    output: web, pdf
+
+  - title: Menuju Post CJBB
+    url: /admin-cjbb.html
+    output: web, pdf
+
+  - title: Menuju Post Lowongan Kerja
+    url: /tag_loker_banjarmasin
+    output: web, pdf
+
+  - title: Menuju Post Clash
+    url: /clash_openwrt.html
+    output: web
+
+  - title: Donasi
+    url: /donasi.html
+    output: web, pdf
+
+  - title: Profile
+    url: /profile.html
+    output: web, pdf
+
+  - title: Disclaimer
+    url: /disclaimer.html
+    output: web, pdf
+
+  - title: Privacy Policy
+    url: /privacy_policy.html
+    output: web, pdf
