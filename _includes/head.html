@@ -41,6 +41,31 @@
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
+<!-- start terms and condition -->
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#2574a9"
+    },
+    "button": {
+      "background": "transparent",
+      "text": "#ffffff",
+      "border": "#ffffff"
+    }
+  },
+  "content": {
+    "href": "https://url-blog.blogspot.com/p/privacy-policy.html"
+  }
+})});
+</script>
+
+<!-- end terms and condition -->
+
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}">
 
 {% comment %} Copyright 2021 Google LLC {% endcomment %}
