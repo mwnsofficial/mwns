@@ -1,20 +1,20 @@
 # ini jalur repository blog ini
-repository: mwnsofficial/kabarloker
+repository: mwnsofficial/mwns
 
 # bisa multifungsi selain web bisa juga menampilkan pdf
 output: web
 
 # nama head pada navigasi
-topnav_title: kabar loker
+topnav_title: mwns
 
 # optimasi search engine google
-site_title: Temukan berita lowongan kerja hanya di kabar loker.
+site_title: Temukan berita terupdate hanya di mwns.
 
 # footer ada disini
 company_name: Hak Cipta MWNS
 
 # ini tempat titik edit cepat pada blog
-github_editme_path: mwnsofficial/kabarloker/blob/main/
+github_editme_path: mwnsofficial/mwns/blob/main/
 
 # ini tempat titik edit cepat pada blog
 # gitlab_editme_path: 
@@ -39,7 +39,7 @@ exclude:
   - .gitignore
   - vendor
 
-feedback_subject_line: kabar loker
+feedback_subject_line: mwns
 
 feedback_email: myarachma92@gmail.com
 
@@ -77,6 +77,18 @@ defaults:
 
   -
     scope:
+      path: "/pages1"
+      type: "pages"
+    values:
+      layout: "page1"
+      comments: false
+      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
+      search: true
+      sidebar: menu_cjbb
+      topnav: topnav
+
+  -
+    scope:
       path: ""
       type: "tooltips"
     values:
@@ -96,15 +108,28 @@ defaults:
       sidebar: menu_loker
       topnav: topnav
 
+  -
+    scope:
+      path: "/_posts1"
+      type: "posts"
+    values:
+      layout: "post1"
+      comments: true
+      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
+      search: true
+      sidebar: menu_cjbb
+      topnav: topnav
+
 sidebars:
 - menu_loker
+- menu_cjbb
 
 # ini jalur deskripsi sitemap.xml
 description: "Temukan lowongan kerja hanya di kabar loker."
 
 # needed for sitemap.xml file only
-# url: http://idratherbewriting.com
-# baseurl: /documentation-theme-jekyll
+url: http://www.clashmwns.com
+baseurl: /mwns
 
 
 github: [metadata]
