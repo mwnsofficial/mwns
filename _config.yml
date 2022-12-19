@@ -77,8 +77,8 @@ defaults:
 
   -
     scope:
-      path: "/pages1"
-      type: "pages"
+      path: ""
+      type: "pages1"
     values:
       layout: "page1"
       comments: false
@@ -110,8 +110,8 @@ defaults:
 
   -
     scope:
-      path: "/_posts1"
-      type: "posts"
+      path: ""
+      type: "posts1"
     values:
       layout: "post1"
       comments: true
