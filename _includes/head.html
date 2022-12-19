@@ -4,6 +4,11 @@
 <meta name="description" content="{% if page.summary %}{{ page.summary | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
 <meta name="keywords" content="{{page.tags}}{% if page.tags %}, {% endif %} {{page.keywords}}">
 <title>{{ page.title }} | {{ site.site_title }}</title>
+
+<meta name="description" content="{% if page1.summary %}{{ page1.summary | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+<meta name="keywords" content="{{page1.tags}}{% if page1.tags %}, {% endif %} {{page1.keywords}}">
+<title>{{ page1.title }} | {{ site.site_title }}</title>
+
 <link rel="stylesheet" href="{{ "css/syntax.css" }}">
 
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -68,4 +73,4 @@ window.cookieconsent.initialise({
 
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}">
 
-{% comment %} Copyright 2021 Google LLC {% endcomment %}
+{% comment %} Hak Cipta MWNS {% endcomment %}
