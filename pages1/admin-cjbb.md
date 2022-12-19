@@ -18,7 +18,7 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
 <div class="row">
 
         <div class="col-lg-12">
-            <h2 class="page-header">Clash openwrt</h2>
+            <h2 class="page-header">Berikut daftar admin grup CJBB</h2>
         </div>
         
         <div class="col-md-3 col-sm-6">
@@ -29,8 +29,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Pendiri dan Ketua CJBB</p>
             <p>Dyah Sheba</p>
-           <a href="/dyah-sheba.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/dyahsheba2022" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -43,6 +44,7 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Muhammad Yusuf Al Banjary</p>
            <a href="/muhammad-yusuf.html" class="btn btn-primary">Lihat Profile</a>
           </div>
@@ -57,8 +59,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Yusran Fals</p>
-           <a href="/yusran-fals.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/profile.php?id=100004742375621" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -71,8 +74,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Atakbahagia</p>
-           <a href="/atakbahagia.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/darsi.apaadanya" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -85,8 +89,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Hamdan Sr</p>
-           <a href="/hamdan-sr.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/hamdan.sr.1" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -99,8 +104,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Nietha Nazwa</p>
-           <a href="/nietha-nazwa.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/wahyu.nita.9619" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -113,8 +119,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Icha Culas</p>
-           <a href="/icha-culas.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/profile.php?id=100077163289356" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -127,8 +134,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Richy</p>
-           <a href="/richy.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/profile.php?id=100032295676464" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -141,8 +149,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Anan Bahalap</p>
-           <a href="/anan-bahalap.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/Anan.bahalap" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -155,8 +164,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Laras Sehati</p>
-           <a href="/laras-sehati.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/larasati.larasati.9081323" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -169,8 +179,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Syamsu Sehati</p>
-           <a href="/syamsu-sehati.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/kucing.leo" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -183,8 +194,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Amat</p>
-           <a href="/amat.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/amat.j.ii" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -197,8 +209,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Mira Mamanya Adilla</p>
-           <a href="/mira-mamanya-adilla.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/mira.dilla.96" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -211,8 +224,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Paman Pentol</p>
-           <a href="/paman-pentol.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/profile.php?id=100077690378088" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
@@ -225,8 +239,9 @@ Untuk mengenalkan kami ke anda, kami akan memberikan sedikit informasi tentang p
              </span>
               </div>
              <div class="panel-body">
+            <p>Admin CJBB</p>
             <p>Saifullah Jamani</p>
-           <a href="/saifullah-jamani.html" class="btn btn-primary">Lihat Profile</a>
+           <a href="https://www.facebook.com/vita.angraini.520" class="btn btn-primary">Lihat Profile</a>
           </div>
          </div>
         </div>
