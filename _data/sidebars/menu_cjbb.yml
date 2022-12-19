@@ -4,16 +4,37 @@ entries:
   version: 
   folders:
 
-  - title: CJBB
+  - title: cjbb
     output: web, pdf
     folderitems:
 
-    - title: Beranda
-      url: /info-cjbb.html
+    - title: Beranda Utama
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Lihat Semua Post
+      url: /berita.html
       output: web, pdf
 
     - title: Admin CJBB
       url: /admin-cjbb.html
+      output: web, pdf
+
+    - title: Profile
+      url: /profile.html
+      output: web, pdf
+
+    - title: Disclaimer
+      url: /disclaimer.html
+      output: web, pdf
+
+    - title: Privacy Policy
+      url: /privacy_policy.html
+      output: web, pdf
+
+    - title: Donasi
+      url: /donasi.html
       output: web, pdf
 
   - title: Daftar Anggota
@@ -124,77 +145,9 @@ entries:
       url: /tag-z.html
       output: web
    
-  - title: Daftar Admin
-    output: web
-    folderitems:
-   
-    - title: Dyah Sheba
-      url: /dyah-sheba.html
-      output: web
-   
-    - title: Muhammad Yusuf Al Banjary
-      url: /muhammad-yusuf.html
-      output: web
-   
-    - title: Yusran Fals
-      url: /yusran-fals.html
-      output: web
-   
-    - title: Atakbahagia
-      url: /atakbahagia.html
-      output: web
-   
-    - title: Hamdan Sr
-      url: /hamdan-sr.html
-      output: web
-   
-    - title: Nietha Nazwa
-      url: /nietha-nazwa.html
-      output: web
-   
-    - title: Icha Culas
-      url: /icha-culas.html
-      output: web
-   
-    - title: Richy
-      url: /richy.html
-      output: web
-   
-    - title: Anan Bahalap
-      url: /anan-bahalap.html
-      output: web
-   
-    - title: Laras Sehati
-      url: /laras-sehati.html
-      output: web
-   
-    - title: Syamsu Sehati
-      url: /syamsu-sehati.html
-      output: web
-   
-    - title: Amat
-      url: /amat.html
-      output: web
-   
-    - title: Mira Mamanya Ailla
-      url: /mira-mamanya-adilla.html
-      output: web
-   
-    - title: Paman Pentol
-      url: /paman-pentol.html
-      output: web
-   
-    - title: Saifullah Jamani
-      url: /saifullah-jamani.html
-      output: web
-   
   - title: Pelayanan
     output: web
     folderitems:
-   
-    - title: Donasi
-      url: /donasi.html
-      output: web, pdf
    
     - title: Formulir
       url: /formulir.html
