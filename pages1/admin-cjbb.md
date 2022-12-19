@@ -6,7 +6,7 @@ keywords: admin
 permalink: admin-cjbb.html
 summary: profile dari semua admin grup CJBB.
 toc: false
-folder: pages
+folder: pages1
 ---
 
 ## Daftar profile admin grup CJBB
