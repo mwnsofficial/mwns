@@ -7,7 +7,7 @@ tags: [member, d]
 image: /images/member-list-d.jpg
 ---
 
-Semua anggota dengan nama berawalan huruf B ada disini.
+Semua anggota dengan nama berawalan huruf D ada disini.
 
 Admin akan selalu update 1x24 jam untuk pembaruan.
 
