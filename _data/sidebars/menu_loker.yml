@@ -4,18 +4,18 @@ entries:
   version: 
   folders:
 
-  - title: Kabar Loker
+  - title: kabar lowongan kerja
     output: web, pdf
     folderitems:
 
-  - title: Beranda Utama
-    url: /index.html
-    output: web, pdf
-    type: homepage
+    - title: Beranda Utama
+      url: /index.html
+      output: web, pdf
+      type: homepage
 
-  - title: Lihat Semua Post
-    url: /berita.html
-    output: web, pdf
+    - title: Lihat Semua Post
+      url: /berita.html
+      output: web, pdf
 
     - title: Sitemap
       url: /sitemap.html
