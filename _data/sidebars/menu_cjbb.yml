@@ -21,181 +21,181 @@ entries:
     folderitems:
 
     - title: List A
-      url: /tag_a.html
+      url: /tag-a.html
       output: web
-
+   
     - title: List B
-      url: /tag_b.html
+      url: /tag-b.html
       output: web
-    
+   
     - title: List C
-      url: /tag_c.html
+      url: /tag-c.html
       output: web
-    
+   
     - title: List D
-      url: /tag_d.html
+      url: /tag-d.html
       output: web
-    
+   
     - title: List E
-      url: /tag_e.html
+      url: /tag-e.html
       output: web
-    
+   
     - title: List F
-      url: /tag_f.html
+      url: /tag-f.html
       output: web
-    
+   
     - title: List G
-      url: /tag_g.html
+      url: /tag-g.html
       output: web
-    
+   
     - title: List H
-      url: /tag_h.html
+      url: /tag-h.html
       output: web
-    
+   
     - title: List I
-      url: /tag_i.html
+      url: /tag-i.html
       output: web
-    
+   
     - title: List J
-      url: /tag_j.html
+      url: /tag-j.html
       output: web
-    
+   
     - title: List K
-      url: /tag_k.html
+      url: /tag-k.html
       output: web
-    
+   
     - title: List L
-      url: /tag_l.html
+      url: /tag-l.html
       output: web
-    
+   
     - title: List M
-      url: /tag_m.html
+      url: /tag-m.html
       output: web
-    
+   
     - title: List N
-      url: /tag_n.html
+      url: /tag-n.html
       output: web
-    
+   
     - title: List O
-      url: /tag_o.html
+      url: /tag-o.html
       output: web
-
+   
     - title: List P
-      url: /tag_p.html
+      url: /tag-p.html
       output: web
-    
+   
     - title: List Q
-      url: /tag_q.html
+      url: /tag-q.html
       output: web
-    
+   
     - title: List R
-      url: /tag_r.html
+      url: /tag-r.html
       output: web
-    
+   
     - title: List S
-      url: /tag_s.html
+      url: /tag-s.html
       output: web
-    
+   
     - title: List T
-      url: /tag_t.html
+      url: /tag-t.html
       output: web
-    
+   
     - title: List U
-      url: /tag_u.html
+      url: /tag-u.html
       output: web
-    
+   
     - title: List V
-      url: /tag_v.html
+      url: /tag-v.html
       output: web
-    
+   
     - title: List W
-      url: /tag_w.html
+      url: /tag-w.html
       output: web
-    
+   
     - title: List X
-      url: /tag_x.html
+      url: /tag-x.html
       output: web
-    
+   
     - title: List Y
-      url: /tag_y.html
+      url: /tag-y.html
       output: web
-    
+   
     - title: List Z
-      url: /tag_z.html
+      url: /tag-z.html
       output: web
-
+   
   - title: Daftar Admin
     output: web
     folderitems:
-  
+   
     - title: Dyah Sheba
       url: /dyah-sheba.html
       output: web
-  
+   
     - title: Muhammad Yusuf Al Banjary
       url: /muhammad-yusuf.html
       output: web
-    
+   
     - title: Yusran Fals
       url: /yusran-fals.html
       output: web
-    
+   
     - title: Atakbahagia
       url: /atakbahagia.html
       output: web
-    
+   
     - title: Hamdan Sr
       url: /hamdan-sr.html
       output: web
-    
+   
     - title: Nietha Nazwa
       url: /nietha-nazwa.html
       output: web
-    
+   
     - title: Icha Culas
       url: /icha-culas.html
       output: web
-    
+   
     - title: Richy
       url: /richy.html
       output: web
-    
+   
     - title: Anan Bahalap
       url: /anan-bahalap.html
       output: web
-    
+   
     - title: Laras Sehati
       url: /laras-sehati.html
       output: web
-    
+   
     - title: Syamsu Sehati
       url: /syamsu-sehati.html
       output: web
-    
+   
     - title: Amat
       url: /amat.html
       output: web
-    
+   
     - title: Mira Mamanya Ailla
       url: /mira-mamanya-adilla.html
       output: web
-    
+   
     - title: Paman Pentol
       url: /paman-pentol.html
       output: web
-      
+   
     - title: Saifullah Jamani
       url: /saifullah-jamani.html
       output: web
-
+   
   - title: Pelayanan
     output: web
     folderitems:
-
+   
     - title: Donasi
       url: /donasi.html
       output: web, pdf
-
+   
     - title: Formulir
       url: /formulir.html
       output: web, pdf
