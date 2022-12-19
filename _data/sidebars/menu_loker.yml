@@ -4,29 +4,21 @@ entries:
   version: 
   folders:
 
-  - title: Tentang Kabar Loker
+  - title: Kabar Loker
     output: web, pdf
     folderitems:
 
-    - title: Home
-      url: /berita.html
-      output: web, pdf
-      type: homepage
+  - title: Beranda Utama
+    url: /index.html
+    output: web, pdf
+    type: homepage
+
+  - title: Lihat Semua Post
+    url: /berita.html
+    output: web, pdf
 
     - title: Sitemap
       url: /sitemap.html
-      output: web, pdf
-
-    - title: Profile
-      url: /profile.html
-      output: web, pdf
-
-    - title: Disclaimer
-      url: /disclaimer.html
-      output: web, pdf
-
-    - title: Privacy Policy
-      url: /privacy_policy.html
       output: web, pdf
 
     - title: Donasi
@@ -40,35 +32,6 @@ entries:
     - title: Berkas CV
       url: /berkas.html
       output: web, pdf
-
-    - title: Perkenalan
-      url: /index.html
-      output: web, pdf
-
-      subfolders:
-      - title: Konfig Clash
-        output: web
-        subfolderitems:
-
-        - title: Clash Openwrt
-          url: /clash_openwrt.html
-          output: web
-
-        - title: Clash Android
-          url: /clash_android.html
-          output: web
-
-        - title: Clash Magisk
-          url: /clash_magisk.html
-          output: web
-
-        - title: Clash Termux
-          url: /clash_termux.html
-          output: web
-
-        - title: Clash Wimdows
-          url: /clash_windows.html
-          output: web
 
   - title: Pilih Lokasi Kabupaten
     output: web
