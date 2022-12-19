@@ -7,7 +7,7 @@ tags: [member, c]
 image: /images/member-list-c.jpg
 ---
 
-Semua anggota dengan nama berawalan huruf B ada disini.
+Semua anggota dengan nama berawalan huruf C ada disini.
 
 Admin akan selalu update 1x24 jam untuk pembaruan.
 
