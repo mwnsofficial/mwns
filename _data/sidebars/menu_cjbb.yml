@@ -11,26 +11,9 @@ entries:
     - title: Beranda
       url: /info-cjbb.html
       output: web, pdf
-      type: homepage
-
-    - title: Perkenalan
-      url: /index.html
-      output: web, pdf
 
     - title: Admin CJBB
-      url: /admin.html
-      output: web, pdf
-
-    - title: Sitemap
-      url: /sitemap.html
-      output: web, pdf
-
-    - title: Disclaimer
-      url: /disclaimer.html
-      output: web, pdf
-
-    - title: Privacy Policy
-      url: /privacy_policy.html
+      url: /admin-cjbb.html
       output: web, pdf
 
   - title: Daftar Anggota
@@ -141,18 +124,6 @@ entries:
       url: /tag_z.html
       output: web
 
-  - title: Pelayanan
-    output: web
-    folderitems:
-
-    - title: Donasi
-      url: /donasi.html
-      output: web, pdf
-
-    - title: Formulir
-      url: /formulir.html
-      output: web, pdf
-
   - title: Daftar Admin
     output: web
     folderitems:
@@ -216,5 +187,17 @@ entries:
     - title: Saifullah Jamani
       url: /saifullah-jamani.html
       output: web
+
+  - title: Pelayanan
+    output: web
+    folderitems:
+
+    - title: Donasi
+      url: /donasi.html
+      output: web, pdf
+
+    - title: Formulir
+      url: /formulir.html
+      output: web, pdf
 
 # Hak Cipta MWNS
