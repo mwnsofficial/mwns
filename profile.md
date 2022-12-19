@@ -27,10 +27,10 @@ Bagi anda ingin menghubungi saya, baik dalam hal permintaan periklanan maupun re
 
 Atau juga permintaan lain nya. Anda bisa menghubungi saya pada tombol yang sudah saya sediakan di bawah ini:
 
-<a href="https://wa.me/6287764241047" class="btn btn-primary navbar-btn cursorNorm" role="button">WHATSAPP{{tag}}</a>
+<a class="fa fa-whatsapp fa-lg brand" href="https://wa.me/6287764241047" class="btn btn-primary navbar-btn cursorNorm" role="button">WHATSAPP{{tag}}</a>
 
-<a href="<a href="<a href="https://t.me/mwnsofficial" class="btn btn-primary navbar-btn cursorNorm" role="button">TELEGRAM{{tag}}</a>
+<a class="fa fa-telegram fa-lg brand" href="https://t.me/mwnsofficial" class="btn btn-primary navbar-btn cursorNorm" role="button">TELEGRAM{{tag}}</a>
 
-<a href="<a href="<a href="https://tiktok.com/@mwns92" class="btn btn-primary navbar-btn cursorNorm" role="button">TIKTOK{{tag}}</a>
+<a class="fa fa-tiktok fa-lg brand" href="https://tiktok.com/@mwns92" class="btn btn-primary navbar-btn cursorNorm" role="button">TIKTOK{{tag}}</a>
 
-<a href="<a href="<a href="https://www.instagram.com/clashmwms" class="btn btn-primary navbar-btn cursorNorm" role="button">INSTAGRAM{{tag}}</a>
+<a class="fa fa-instagram fa-lg brand" href="https://www.instagram.com/clashmwms" class="btn btn-primary navbar-btn cursorNorm" role="button">INSTAGRAM{{tag}}</a>
