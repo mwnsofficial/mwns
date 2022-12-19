@@ -4,7 +4,7 @@ entries:
   version: 
   folders:
 
-  - title: beranda utama
+  - title: Daftar Menu
     output: web, pdf
     folderitems:
 
@@ -44,3 +44,5 @@ entries:
     - title: Privacy Policy
       url: /privacy_policy.html
       output: web, pdf
+
+# Hak Cipta MWNS
