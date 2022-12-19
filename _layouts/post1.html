@@ -33,7 +33,7 @@ layout: default
         {% if page1.tags != null %}
         <b>Tags: </b>
         {% assign projectTags = site.data.tags.allowed-tags %}
-        {% for tag in page.tags %}
+        {% for tag in page1.tags %}
         {% if projectTags contains tag %}
         <a href="{{ "tag_" | append: tag | append: ".html" }}" class="btn btn-default navbar-btn cursorNorm" role="button">{{page1.tagName}}{{tag}}</a>
         {% endif %}
