@@ -1,22 +1,26 @@
 ---
-title: "Wellcome Loker Banua"
-keywords: loker banua
+title: "Wellcome to mwns"
+keywords: loker kerja, clash, cjbb
 tags: [loker_banua]
-sidebar: menu_loker
+sidebar: menu_utama
 permalink: index.html
-summary: Selamat datang di Loker Banua, lowongan kerja yang tepat untuk anda.
+summary: Selamat datang di mwns, informasi tentang cjbb, lowongan kerja, dan clash ada disini..
 ---
 
-{% include note.html content="Sebelum memulai menggunakan layanan yang kabar loker berikan. Alangkah baiknya untuk membaca <a alt='disclaimer' href='https://www.clashmwns.com/disclaimer'>Disclaimer</a> dan juga <a alt='privacy policy' href='https://www.clashmwns.com/privacy-policy'>Privacy Policy</a>. Dukung kabar loker untuk ke depan nya selalu berikan informasi paling terupdate <a alt='subscribe' href='https://youtube.com/@mwnsofficial'>Subscribe</a>. Ikuti grup telegram kabar loker <a alt='telegram' href='https://t.me/+MV1v5tLmOSI2ODU1'>Disini</a> dan bagi anda yang ingin kopi ke kabar loker bisa melalui <a alt='donasi' href='https://www.clashmwns.com/donate.html'>Donasi</a>." %}
+{% include note.html content="Sebelum memulai menggunakan layanan yang mwns berikan. Alangkah baiknya untuk membaca <a alt='disclaimer' href='https://www.clashmwns.com/disclaimer'>Disclaimer</a> dan juga <a alt='privacy policy' href='https://www.clashmwns.com/privacy-policy'>Privacy Policy</a>. Dukung kabar loker untuk ke depan nya selalu berikan informasi paling terupdate <a alt='subscribe' href='https://youtube.com/@mwnsofficial'>Subscribe</a>. Ikuti grup telegram kabar loker dan bagi anda yang ingin kopi ke kabar loker bisa melalui <a alt='donasi' href='https://www.clashmwns.com/donate.html'>Donasi</a>." %}
 
-## Sambutan Kabar Loker
+## Sambutan Dari MWNS
 
-Selamat datang di Loker Banua, sebuah situs lowongan kerja yang ada di banua dan kalimantan.
+Selamat datang di MWNS, sebuah situs lowongan kerja, perjodohan, dan clash yang bisa anda temukan hanya disini.
 
 ### 1. Layanan untuk pencari kerja
 
-Bagi anda yang sedang mencari lowongan kerja, kami sudah menyiapkan layanan khusus hingga anda mendapatkan kerjaan yang anda inginkan.
+Bagi anda yang sedang mencari lowongan kerja, kami sudah menyiapkan layanan khusus hingga anda mendapatkan kerjaan yang anda inginkan berada di menu lowongan kerja.
 
-### 2. Layanan untuk pembuka kerja
+### 2. Layanan untuk cjbb
 
-Bagi anda yang sedang membuka lowongan kerja, anda bisa menghubungi kami melalui pesan chat atau email melalui halaman profil admin melalui <a alt='form data' href='https://www.clashmwns.com/formulir'>Form Data</a>
+Bagi anda yang sedang mencari jodoh, anda bisa langsung menuju ke tabel menu cari jodoh buhan banjar atau cjbb.
+
+### 3. Layanan untuk clash
+
+Bagi anda yang sedang mencari konfigurasi untuk koneksi openwrt dan lain nya. Anda bisa menuji ke halaman menu clash dan openwrt
