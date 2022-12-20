@@ -2,7 +2,7 @@
 title: "disclaimer"
 keywords: disclaimer
 tags: [loker_banua]
-sidebar: menu_loker
+sidebar: menu_utama
 permalink: disclaimer.html
 summary: Disclaimer dari Loker Banua.
 ---
