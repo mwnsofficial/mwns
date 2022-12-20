@@ -37,6 +37,10 @@ entries:
       url: /donasi.html
       output: web, pdf
 
+    - title: Formulir keanggotaan
+      url: /formulir-cjbb.html
+      output: web, pdf
+
   - title: Daftar Anggota
     output: web
     folderitems:
