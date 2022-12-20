@@ -1,4 +1,4 @@
 ---
 layout: none
 ---
-google.com, {{ site.publisher_id }}, DIRECT, f08c47fec0942fa0
+google.com, {{ site.ads_txt }}, DIRECT, f08c47fec0942fa0
