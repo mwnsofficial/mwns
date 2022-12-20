@@ -33,14 +33,6 @@ entries:
       url: /privacy_policy.html
       output: web, pdf
 
-    - title: Donasi
-      url: /donasi.html
-      output: web, pdf
-
-    - title: Formulir keanggotaan
-      url: /formulir-cjbb.html
-      output: web, pdf
-
   - title: Daftar Anggota
     output: web
     folderitems:
@@ -153,8 +145,12 @@ entries:
     output: web
     folderitems:
    
-    - title: Formulir
-      url: /formulir.html
+    - title: Donasi CJBB
+      url: /donasi-cjbb.html
+      output: web, pdf
+
+    - title: Formulir keanggotaan
+      url: /formulir-cjbb.html
       output: web, pdf
 
 # Hak Cipta MWNS
