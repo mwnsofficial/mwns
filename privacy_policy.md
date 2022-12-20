@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 keywords: privacy policy
 tags: [loker_banua]
-sidebar: menu_loker
+sidebar: menu_utama
 permalink: privacy_policy.html
 summary: Privacy Policy dari clashmwns.
 ---
