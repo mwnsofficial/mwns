@@ -24,13 +24,13 @@ summary: Mengisi form untuk menjadi keanggotaan grup cjbb.
           <input type="checkbox" name="botcheck" id="" style="display: none;" />
           <hr>
           <div class="mb-6">
-            <center><label for="nama depan" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Nama Asli</label></center>
-            <center><input type="text" name="nama depan" id="nama depan" placeholder="isi nama asli..." required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" /></center>
+            <center><label for="nama asli" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Nama Asli</label></center>
+            <center><input type="text" name="nama asli" id="nama asli" placeholder="isi nama asli..." required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" /></center>
           </div>
           <hr>
           <div class="mb-6">
-          <center><label for="nama akun" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Nama Akun Facebook</label></center>
-          <center><input type="text" name="nama akun" id="nama akun" placeholder="isi nama akun..." required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" /></center>
+          <center><label for="nama akun facebook" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Nama Akun Facebook</label></center>
+          <center><input type="text" name="nama akun facebook" id="nama akun facebook" placeholder="isi nama akun..." required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" /></center>
           </div>
           <hr>
           <div class="mb-6">
@@ -54,18 +54,18 @@ summary: Mengisi form untuk menjadi keanggotaan grup cjbb.
           </div>
           <hr>
           <div class="mb-6">
-            <center><label for="whatsapp" class="text-sm text-gray-600 dark:text-gray-400">Nomer Telp</label></center>
-            <center><input type="text" name="whatsapp" id="whatsapp" placeholder="isi nomer telp..." required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" /></center>
+            <center><label for="nomer whatsapp" class="text-sm text-gray-600 dark:text-gray-400">Nomer Telp</label></center>
+            <center><input type="text" name="nomer whatsapp" id="nomer whatsapp" placeholder="isi nomer telp..." required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" /></center>
           </div>
           <hr>
           <div class="mb-6">
-          <center><label for="phone" class="text-sm text-gray-600 dark:text-gray-400">Nomer whatsapp</label></center>
-          <center><input type="text" name="phone" id="phone" placeholder="isi nomer whatsapp..." required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" /></center>
+          <center><label for="nomer telp" class="text-sm text-gray-600 dark:text-gray-400">Nomer whatsapp</label></center>
+          <center><input type="text" name="nomer telp" id="nomer telp" placeholder="isi nomer whatsapp..." required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" /></center>
           </div>
           <hr>
           <div class="mb-6">
-          <center><label for="message" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Alasan Anda Ikut CJBB</label></center>
-          <center><textarea rows="10" name="message" id="message" placeholder="Isi pesan...." class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" required></textarea></center>
+          <center><label for="alasan ikut cjbb" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Alasan Anda Ikut CJBB</label></center>
+          <center><textarea rows="10" name="alasan ikut cjbb" id="alasan ikut cjbb" placeholder="Isi pesan...." class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" required></textarea></center>
           </div>
           <br>
           <hr>
