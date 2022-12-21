@@ -23,22 +23,6 @@ folder: berita
 
         {% endfor %}
 
-<div class="page-navigation mt-5">
-  <div class="row d-flex justify-content-between">
-    <div class="col-6 text-left">
-      {% if site.previous.posts %}
-        <a class="prev" href="{{site.previous.posts}}" class="btn btn-primary navbar-btn cursorNorm" role="button">&laquo; {{posts.previous.title}}{{tag}}</a>
-      {% endif %}
-    </div>
-    <div class="col-6 text-right">
-      {% if site.next.posts %}
-        <a class="prev" href="{{site.next.posts}}" class="btn btn-primary navbar-btn cursorNorm" role="button">{{posts.next.title}} &raquo;{{tag}}</a>
-      {% endif %}
-    </div>
-  </div>
-</div>
-
-
 <hr />
         <p><b>Lihat berita loker lain nya:</b></p>
         <p><a href="sitemap.html" class="btn btn-primary navbar-btn cursorNorm" role="button">Sitemap{{tag}}</a></p>
