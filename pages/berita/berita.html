@@ -26,13 +26,13 @@ folder: berita
 <div class="page-navigation mt-5">
   <div class="row d-flex justify-content-between">
     <div class="col-6 text-left">
-      {% if post.previous.url %}
-        <a class="prev" href="{{post.previous.url}}" class="btn btn-primary navbar-btn cursorNorm" role="button">&laquo; {{post.previous.title}}{{tag}}</a>
+      {% if site.previous.posts %}
+        <a class="prev" href="{{site.previous.posts}}" class="btn btn-primary navbar-btn cursorNorm" role="button">&laquo; {{posts.previous.title}}{{tag}}</a>
       {% endif %}
     </div>
     <div class="col-6 text-right">
-      {% if post.next.url %}
-        <a class="prev" href="{{post.next.url}}" class="btn btn-primary navbar-btn cursorNorm" role="button">{{post.next.title}} &raquo;{{tag}}</a>
+      {% if site.next.posts %}
+        <a class="prev" href="{{site.next.posts}}" class="btn btn-primary navbar-btn cursorNorm" role="button">{{posts.next.title}} &raquo;{{tag}}</a>
       {% endif %}
     </div>
   </div>
