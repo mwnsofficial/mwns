@@ -17,6 +17,10 @@ entries:
       url: /berita.html
       output: web, pdf
 
+    - title: Sitemap
+      url: /arsip-mwns.html
+      output: web, pdf
+
     - title: Menuju Post CJBB
       url: /admin-cjbb.html
       output: web, pdf
