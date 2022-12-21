@@ -1,48 +1,24 @@
 entries:
 - title: sidebar
-  product: Wellcome Pelamar dan Pembuka Lowongan Kerja
+  product: Wellcome to konfigurasi clash dari mwns
   version: 
   folders:
 
-  - title: Tentang Kabar Loker
+  - title: Tentang konfigurasi
     output: web, pdf
     folderitems:
 
-    - title: Home
-      url: /berita.html
+    - title: Beranda Utama
+      url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Sitemap
-      url: /sitemap.html
-      output: web, pdf
-
-    - title: Profile
-      url: /profile.html
-      output: web, pdf
-
-    - title: Disclaimer
-      url: /disclaimer.html
-      output: web, pdf
-
-    - title: Privacy Policy
-      url: /privacy_policy.html
+    - title: Lihat Semua Post
+      url: /berita.html
       output: web, pdf
 
     - title: Donasi
       url: /donasi.html
-      output: web, pdf
-
-    - title: Formulir
-      url: /formulir.html
-      output: web, pdf 
-   
-    - title: Berkas CV
-      url: /berkas.html
-      output: web, pdf
-
-    - title: Perkenalan
-      url: /index.html
       output: web, pdf
 
   - title: Konfig Clash
