@@ -5,11 +5,12 @@ topnav:
     - title: Beranda
       url: /index.html
 
-    - title: Lihat Semua Post
-      url: /berita.html
+topnav_dropdowns:
+- title: Pilih menu
+  folders:
 
-    - title: Arsip
-      url: /sitemap.html
+  - title: menu mwns
+    folderitems:
 
     - title: Donasi
       url: /donasi.html
@@ -23,12 +24,11 @@ topnav:
     - title: Privacy Policy
       url: /privacy_policy.html
 
-topnav_dropdowns:
-- title: Pilih menu
-  folders:
-
   - title: Pilih Artikel
     folderitems:
+
+    - title: Lihat Semua Post
+      url: /berita.html
 
     - title: Menuju Post CJBB
       url: /admin-cjbb.html
@@ -38,5 +38,8 @@ topnav_dropdowns:
 
     - title: Menuju Post Clash
       url: /clash_openwrt.html
+
+    - title: Sitemap
+      url: /sitemap.html
 
 # Hak Cipta MWNS
