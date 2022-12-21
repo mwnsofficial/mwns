@@ -25,9 +25,6 @@ google_analytics: UA-250912504-1
 # khusus adsense js
 google_adsense: ca-pub-1794381705838564
 
-# khusus ads.txt
-ads_txt: pub-1794381705838564
-
 # alamat menampilkan web
 host: 127.0.0.1
 
