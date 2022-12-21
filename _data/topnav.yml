@@ -2,8 +2,11 @@ topnav:
 - title: Topnav
   items:
 
-    - title: Home
-      url: /berita
+    - title: Beranda Utama
+      url: /index.html
+
+    - title: Lihat Semua Post
+      url: /berita.html
 
 topnav_dropdowns:
 - title: Pilih menu
@@ -11,98 +14,36 @@ topnav_dropdowns:
 
   - title: Tentang Kabar Loker
     folderitems:
-    
+ 
+    - title: Beranda
+      url: /index.html
+   
     - title: Arsip
-      url: /arsip_berita
+      url: /sitemap.html
 
-    - title: Sitemap
-      url: /sitemap
-    
-    - title: Disclaimer
-      url: /disclaimer
-    
-    - title: Privacy Policy
-      url: /privacy_policy
-    
-    - title: Profile
-      url: /profile
-    
     - title: Donasi
-      url: /donasi
-    
-    - title: Formulir Pembuka Loker
-      url: /formulir
-    
-    - title: Berkas CV
-      url: /berkas
+      url: /donasi.html
 
-  - title: Pilih Lokasi Kabupaten
+    - title: Profile
+      url: /profile.html
+
+    - title: Disclaimer
+      url: /disclaimer.html
+
+    - title: Privacy Policy
+      url: /privacy_policy.html
+
+  - title: Daftar Menu
+    output: web, pdf
     folderitems:
 
-    - title: Banjarmasin
-      url: /tag_loker_banjarmasin.html
+    - title: Menuju Post CJBB
+      url: /admin-cjbb.html
 
-    - title: Banjarbaru
-      url: /tag_loker_banjarbaru.html
-    
-    - title: Banjar
-      url: /tag_loker_banjar.html
-    
-    - title: Tanah Laut
-      url: /tag_loker_tanah_laut.html
-    
-    - title: Tanah Bumbu
-      url: /tag_loker_tanah_bumbu.html
-    
-    - title: Rantau
-      url: /tag_loker_rantau.html
-    
-    - title: Hulu Sungai Selatan
-      url: /tag_loker_hss.html
-    
-    - title: Hulu Sungai Tengah
-      url: /tag_loker_hst.html
-    
-    - title: Hulu Sungai Utara
-      url: /tag_loker_hsu.html
-    
-    - title: Tabalong
-      url: /tag_loker_tabalong.html
-    
-    - title: Rantau
-      url: /tag_loker_rantau.html
-    
-    - title: Batola
-      url: /tag_loker_batola.html
-    
-    - title: Kapuas
-      url: /tag_loker_kapuas.html
-    
-    - title: Palangka Raya
-      url: /tag_loker_palangkaraya.html
-    
-    - title: Balikpapan
-      url: /tag_loker_balikpapan.html
-    
-    - title: Samarinda
-      url: /tag_loker_samarinda.html
+    - title: Menuju Post Lowongan Kerja
+      url: /tag_loker_banjarmasin
 
-  - title: Pilih Lokasi Propinsi
-    folderitems:
-    
-    - title: Kalimantan Selatan
-      url: /tag_kalimantan_selatan.html
-    
-    - title: Kalimantan Tengah
-      url: /tag_kalimantan_tengah.html
-
-    - title: Kalimantan Timur
-      url: /tag_kalimantan_timur.html
-    
-    - title: Kalimantan Barat
-      url: /tag_kalimantan_barat.html
-    
-    - title: Kalimantan Utara
-      url: /tag_kalimantan_utara.html
+    - title: Menuju Post Clash
+      url: /clash_openwrt.html
 
 # Hak Cipta MWNS
