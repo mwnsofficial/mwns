@@ -2,22 +2,12 @@ topnav:
 - title: Topnav
   items:
 
-    - title: Beranda Utama
+    - title: Beranda
       url: /index.html
 
     - title: Lihat Semua Post
       url: /berita.html
 
-topnav_dropdowns:
-- title: Pilih menu
-  folders:
-
-  - title: Tentang Kabar Loker
-    folderitems:
- 
-    - title: Beranda
-      url: /index.html
-   
     - title: Arsip
       url: /sitemap.html
 
@@ -33,8 +23,11 @@ topnav_dropdowns:
     - title: Privacy Policy
       url: /privacy_policy.html
 
-  - title: Daftar Menu
-    output: web, pdf
+topnav_dropdowns:
+- title: Pilih menu
+  folders:
+
+  - title: Pilih Artikel
     folderitems:
 
     - title: Menuju Post CJBB
