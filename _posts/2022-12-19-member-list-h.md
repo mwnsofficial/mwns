@@ -4,6 +4,7 @@ published: true
 permalink: member-list-h.html
 summary: "Daftar member list h."
 tags: [member, h]
+sidebar: menu_cjbb
 image: /images/member-list-h.jpg
 ---
 
