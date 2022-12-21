@@ -1,4 +1,1 @@
----
-layout: none
----
 google.com, {{ site.ads_txt }}, DIRECT, f08c47fec0942fa0
