@@ -53,3 +53,4 @@ Admin akan selalu update 1x24 jam untuk pembaruan.
 |1168|bani akmal|
 |1224|balum batasmiah|
 |1246|bank zay|
+|1258|bunga malang|
