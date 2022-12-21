@@ -8,15 +8,6 @@ folder: berita
 ---
 <div class="home">
 
-<div class="carousel-item">
-  <a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a>
-  <img src="" alt="{{ post.title }}">
-  <div class="carousel-caption d-none d-md-block">
-    <h5>{{ post.title }}</h5>
-    <p>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ post.content | truncatewords: 50 | strip_html }} {% endif %}</p>
-  </div>
-</div>
-
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
